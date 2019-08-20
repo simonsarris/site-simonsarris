@@ -1,3 +1,15 @@
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+/* example built in css below */
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
