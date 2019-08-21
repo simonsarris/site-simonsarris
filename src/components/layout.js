@@ -31,22 +31,29 @@ const Layout = ({ children }) => {
         <div
           style={{
             margin: `auto`,
-            backgroundColor: 'gray'
+            backgroundColor: 'gray',
+            padding: `1.45rem 1.0875rem`,
           }}
-          >
-        <Header siteTitle={data.site.siteMetadata.title} />
+        >
+          <Header siteTitle={data.site.siteMetadata.title} />
 
 
-          <ul
+          <div
             style={{
-              listStyleType: 'none',
-              overflow: 'hidden'
+              display: 'flex'
             }}
           >
-            <li><Link to="/photo">photo</Link></li>
-            <li><Link to="/writing">writing</Link></li>
-            <li><Link to="/about">about</Link></li>
-          </ul>
+            <ul
+              style={{
+                listStyleType: 'none',
+                overflow: 'hidden',
+              }}
+            >
+              <li><Link to="/photo">photo</Link></li>
+              <li><Link to="/writing">writing</Link></li>
+              {/* <li><Link to="/about">about</Link></li> */ }
+            </ul>
+          </div>
 
           <main>{children}</main>
           {/* Footer? */}
