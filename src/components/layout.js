@@ -42,7 +42,8 @@ const Layout = ({ children }) => {
 
           <div
             style={{
-              display: 'flex'
+              display: 'flex',
+              justifyContent: 'center'
             }}
           >
             <ul
@@ -53,7 +54,7 @@ const Layout = ({ children }) => {
             >
               <li><Link to="/photo">photo</Link></li>
               <li><Link to="/writing">writing</Link></li>
-              {/* <li><Link to="/about">about</Link></li> */ }
+              <li><Link to="/about">about</Link></li>
             </ul>
           </div>
 
