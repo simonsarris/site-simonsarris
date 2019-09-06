@@ -9,6 +9,16 @@ li a {
   text-decoration: none;
 }
 
+html, body, #___gatsby {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#___gatsby {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 /* example built in css below */
 html {
   font-family: sans-serif;
@@ -16,7 +26,6 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 body {
-  margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

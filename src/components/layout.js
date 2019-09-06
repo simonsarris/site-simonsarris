@@ -21,13 +21,15 @@ const Layout = ({ children }) => {
     <>
       <div
         style={{
-          display: `flex`,
-          margin: `0 auto`,
-          maxWidth: 960,
-          padding: `0px 1.0875rem 1.45rem`,
-          paddingTop: 0,
-        }}
-      >
+              display: `flex`,
+              justifyContent: `center`,
+              alignItems: `center`,
+              margin: `0 auto`,
+              maxWidth: 960,
+              padding: `0px 1.0875rem 1.45rem`,
+              paddingTop: 0,
+            }}
+          >
         <div
           style={{
             margin: `auto`,
