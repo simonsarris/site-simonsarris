@@ -1,7 +1,7 @@
-li {
+.mainMenu li {
   float: left;
 }
-li a {
+.mainMenu li a {
   display: block;
   color: white;
   text-align: center;
