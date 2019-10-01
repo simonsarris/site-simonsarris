@@ -17,16 +17,9 @@ html, body, #outermost {
 #outermost {
   display: flex;
   align-items: center;
-  justify-content: center;
 }
 html {
   font-family: sans-serif;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-}
-body {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 main {
@@ -36,41 +29,8 @@ main {
 }
 
 
-/* example built in css below */
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-main,
-menu,
-nav,
-section,
-summary {
-  display: block;
-}
-audio,
-canvas,
-progress,
-video {
-  display: inline-block;
-}
-audio:not([controls]) {
-  display: none;
-  height: 0;
-}
-progress {
-  vertical-align: baseline;
-}
-[hidden],
-template {
-  display: none;
-}
 a {
   background-color: transparent;
-  -webkit-text-decoration-skip: objects;
 }
 a:active,
 a:hover {
@@ -310,37 +270,15 @@ p {
   padding: 0;
 }
 
+
 ol li {
   padding-left: 0;
 }
 ul li {
   padding-left: 0;
 }
-li > ol {
-  margin-left: 1.45rem;
-  margin-bottom: calc(1.45rem / 2);
-  margin-top: calc(1.45rem / 2);
-}
-li > ul {
-  margin-left: 1.45rem;
-  margin-bottom: calc(1.45rem / 2);
-  margin-top: calc(1.45rem / 2);
-}
-blockquote *:last-child {
-  margin-bottom: 0;
-}
-li *:last-child {
-  margin-bottom: 0;
-}
-p *:last-child {
-  margin-bottom: 0;
-}
+
 li > p {
   margin-bottom: calc(1.45rem / 2);
 }
 
-@media only screen and (max-width: 480px) {
-  html {
-    font-size: 100%;
-  }
-}
