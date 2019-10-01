@@ -1,13 +1,27 @@
 html {
+  height: 100%;
   background: #fff;
   color: #333;
   font: 16px/1.4 Open Sans, Helvetica, Arial, sans-serif;
+  /* why not? */
+  background-image: url("bg.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: grid;
 }
 
 body {
+  height: 100%;
   max-width: 720px;
   padding: 20px 40px;
   margin: 0 auto;
+  display: grid;
+}
+
+.container {
+  margin: auto;
 }
 
 a {
@@ -34,7 +48,7 @@ p {
 /* structure */
 
 .site-box {
-  padding: 40px 60px 0;
+  padding: 40px 60px 40px;
   background: #F5F5F5; /* the most refreshing color! */
   box-shadow: 2px 4px 6px 1px rgba(50, 50, 50, 0.14);
 }
@@ -43,9 +57,6 @@ p {
   text-align: center;
   font-size: 2.6em;
 }
-
-
-
 
 
 @media screen and (max-width: 700px) {
