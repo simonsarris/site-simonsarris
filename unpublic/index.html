@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="initial-scale=1, width=device-width">
+  <title>simonsarris.com</title>
+  <link rel="stylesheet" type="text/css" href="normalize.css" />
+  <link rel="stylesheet" type="text/css" href="layout.css" />
+  <!-- <link rel="icon" href="..."> -->
+</head>
+
+<style>
+body {
+  position: relative;
+  animation: 2.2s ease-in 0s 1 fadein;
+}
+
+.bg-images {
+  position: relative;
+  margin: auto;
+}
+.bg-images img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%
+}
+
+@keyframes fadein {
+    0% { opacity: 0; background-color: black; }
+   20% { opacity: 0; background-color: black; }
+  100% { opacity: 1; background-color: #ebd0bd; }
+}
+
+@keyframes popvillage {
+    0% { transform: scaleY(0.001); }
+  100% { transform: scaleY(1); }
+}
+
+@keyframes popvillage2 {
+    0% { transform: scaleY(1); }
+  100% { transform: scaleY(0.01); }
+}
+
+.town {
+  transform-origin: left bottom;
+  transform: scaleY(0.001);
+}
+
+#town0 { animation: 1.3s cubic-bezier(0, 1.3, 1, 1) 1.8s 1 popvillage forwards; }
+#town1 { animation: .7s cubic-bezier(0, 1.2, 1, 1) 3.5s 1 popvillage forwards; }
+#town2 { animation: .7s cubic-bezier(0, 1.2, 1, 1) 3.7s 1 popvillage forwards; }
+#town3 { animation: .6s cubic-bezier(0, 1.2, 1, 1) 3.9s 1 popvillage forwards; }
+#town4 { animation: .6s cubic-bezier(0, 1.2, 1, 1) 4.1s 1 popvillage forwards; }
+#town5 { animation: .6s cubic-bezier(0, 1.2, 1, 1) 4.3s 1 popvillage forwards; }
+#town6 { animation: .5s cubic-bezier(0, 1.2, 1, 1) 4.5s 1 popvillage forwards; }
+#town7 { animation: .4s cubic-bezier(0, 1.2, 1, 1) 4.7s 1 popvillage forwards; }
+
+
+</style>
+
+<body>
+
+  <div class="container">
+    <div class="bg-images">
+      <img class="bg3" src="bg-sky.png" />
+      <img class="town" id="town7" src="bg-town7.png" />
+      <img class="town" id="town6" src="bg-town6.png" />
+      <img class="town" id="town5" src="bg-town5.png" />
+      <img class="town" id="town3" src="bg-town3.png" />
+      <img class="town" id="town4" src="bg-town4.png" />
+      <img class="town" id="town2" src="bg-town2.png" />
+      <img class="town" id="town1" src="bg-town1.png" />
+      <img class="town" id="town0" src="bg-town0.png" />
+      <img class="bg1" src="bg-foreground.png" />
+    </div>
+
+    <!-- <div class="site-box">
+      <div class="hgroup">
+        <h1 class="title">Simon Sarris</h1>
+      </div>
+
+      <p><em>Friends! Readers! Passer-bys!</em></p>
+      <p>simonsarris.com is once again under construction.</p>
+      <p><em>Soon <span style="font-size: 70%">(okay like 2020)</span> all shall be revealed! And what else to expect
+          but:</em></p>
+      <ul style="padding-left: 20px; list-style-type: square;">
+        <li>Wondrous wonders!</li>
+        <li>Marvelous marvels!</li>
+        <li>The earth itself, made anew!</li>
+        <li>SVG animations, the kind not seen since Byzantine times, crafted with alchemy and love!</li>
+        <li>Coherent photography pages! (For the time thou can still <a
+            href="https://www.instagram.com/simonsarris/">instagram</a>)</li>
+        <li>Fine compositions, exhortations, odes, and poesy! (despair only partially my friends, for the time there is
+          <a href="https://twitter.com/simonsarris">twitter</a>)</li>
+        <li>Exclamations, overflowing! (Consider those provided already as a sign of good faith to you, dear reader)
+        </li>
+        <li>More art than ever before!</li>
+        <li>Probably that cooking show I keep promising <span style="font-size: 70%">(well...)</span></li>
+      </ul>
+      <p><em>Harness your optimism dear reader, and look forward to the future of all things.</em></p>
+
+      <p>As always I can be contacted by driving around new hampshire and shouting my name or else simonsarris at gmail works too.</p>
+
+    </div> -->
+  </div>
+
+
+
+
+</body>
+
+</html>
