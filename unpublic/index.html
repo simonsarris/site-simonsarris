@@ -3,34 +3,48 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="viewport" content="initial-scale=1, width=device-width">
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, width=device-width">
   <title>simonsarris.com</title>
   <link rel="stylesheet" type="text/css" href="normalize.css" />
   <link rel="stylesheet" type="text/css" href="layout.css" />
+  <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap" rel="stylesheet">
+
   <!-- <link rel="icon" href="..."> -->
 </head>
 
 <style>
 body {
   position: relative;
-  animation: 2.2s ease-in 0s 1 fadein;
+  animation: 2.2s ease-in 0s 1 bg-color-fadein;
+  font-family: 'Libre Baskerville', serif;
 }
 
 .bg-images {
-  position: relative;
+  display: grid;
   margin: auto;
+  justify-items: center;
+  overflow: hidden;
 }
 .bg-images img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%
+  overflow: auto;
+  max-height: 100%;
+
+  grid-column: 1;
+  grid-row: 1;
+    /* width: 230%; */
 }
 
-@keyframes fadein {
+
+@keyframes bg-color-fadein {
     0% { opacity: 0; background-color: black; }
    20% { opacity: 0; background-color: black; }
   100% { opacity: 1; background-color: #ebd0bd; }
+}
+
+@keyframes text-fadein {
+    0% { opacity: 0; }
+   20% { opacity: 0; }
+  100% { opacity: 0.9; }
 }
 
 @keyframes popvillage {
@@ -38,25 +52,38 @@ body {
   100% { transform: scaleY(1); }
 }
 
-@keyframes popvillage2 {
-    0% { transform: scaleY(1); }
-  100% { transform: scaleY(0.01); }
+.bg-fore {
+  z-index: 3;
 }
 
-.town {
+.bg-sky {
+  z-index: 1;
+}
+
+.bg-town {
+  z-index: 2;
   transform-origin: left bottom;
   transform: scaleY(0.001);
 }
 
-#town0 { animation: 1.3s cubic-bezier(0, 1.3, 1, 1) 1.8s 1 popvillage forwards; }
-#town1 { animation: .7s cubic-bezier(0, 1.2, 1, 1) 3.5s 1 popvillage forwards; }
-#town2 { animation: .7s cubic-bezier(0, 1.2, 1, 1) 3.7s 1 popvillage forwards; }
-#town3 { animation: .6s cubic-bezier(0, 1.2, 1, 1) 3.9s 1 popvillage forwards; }
-#town4 { animation: .6s cubic-bezier(0, 1.2, 1, 1) 4.1s 1 popvillage forwards; }
-#town5 { animation: .6s cubic-bezier(0, 1.2, 1, 1) 4.3s 1 popvillage forwards; }
-#town6 { animation: .5s cubic-bezier(0, 1.2, 1, 1) 4.5s 1 popvillage forwards; }
-#town7 { animation: .4s cubic-bezier(0, 1.2, 1, 1) 4.7s 1 popvillage forwards; }
+#town0 { animation: 3.3s cubic-bezier(0, 1.3, 1, 1) 1.8s 1 popvillage forwards; }
+#town1 { animation: 3.7s cubic-bezier(0, 1.2, 1, 1) 3.5s 1 popvillage forwards; }
+#town2 { animation: 3.7s cubic-bezier(0, 1.2, 1, 1) 3.7s 1 popvillage forwards; }
+#town3 { animation: 3.6s cubic-bezier(0, 1.2, 1, 1) 3.9s 1 popvillage forwards; }
+#town4 { animation: 3.6s cubic-bezier(0, 1.2, 1, 1) 4.1s 1 popvillage forwards; }
+#town5 { animation: 3.6s cubic-bezier(0, 1.2, 1, 1) 4.3s 1 popvillage forwards; }
+#town6 { animation: 3.5s cubic-bezier(0, 1.2, 1, 1) 4.5s 1 popvillage forwards; }
+#town7 { animation: 3.4s cubic-bezier(0, 1.2, 1, 1) 4.7s 1 popvillage forwards; }
 
+.text {
+  z-index: 4;
+  grid-column: 1;
+  grid-row: 1;
+}
+
+h1 {
+  animation: 8s ease-in 0s 1 text-fadein;
+}
 
 </style>
 
@@ -64,16 +91,24 @@ body {
 
   <div class="container">
     <div class="bg-images">
-      <img class="bg3" src="bg-sky.png" />
-      <img class="town" id="town7" src="bg-town7.png" />
-      <img class="town" id="town6" src="bg-town6.png" />
-      <img class="town" id="town5" src="bg-town5.png" />
-      <img class="town" id="town3" src="bg-town3.png" />
-      <img class="town" id="town4" src="bg-town4.png" />
-      <img class="town" id="town2" src="bg-town2.png" />
-      <img class="town" id="town1" src="bg-town1.png" />
-      <img class="town" id="town0" src="bg-town0.png" />
-      <img class="bg1" src="bg-foreground.png" />
+      <img class="bg-sky" src="bg-sky.png" />
+      <img class="bg-town" id="town7" src="bg-town7.png" />
+      <img class="bg-town" id="town6" src="bg-town6.png" />
+      <img class="bg-town" id="town5" src="bg-town5.png" />
+      <img class="bg-town" id="town3" src="bg-town3.png" />
+      <img class="bg-town" id="town4" src="bg-town4.png" />
+      <img class="bg-town" id="town2" src="bg-town2.png" />
+      <img class="bg-town" id="town1" src="bg-town1.png" />
+      <img class="bg-town" id="town0" src="bg-town0.png" />
+      <img class="bg-fore" src="bg-foreground.png" />
+      <div class="text">
+        <h1>Simon Sarris</h1>
+        <ul>
+          <li>photography</li>
+          <li>writing</li>
+          <li>about</li>
+        </ul>
+      </div>
     </div>
 
     <!-- <div class="site-box">
