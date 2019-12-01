@@ -79,21 +79,6 @@ h1 {
   /* animation: 8s ease-in 0s 1 text-fadein; */
 }
 
-.mainMenu {
-  /* animation: 5s ease-in 0s 1 text-fadein; */
-  list-style-type: none;
-  overflow: hidden;
-  margin: 0px;
-}
-.mainMenu li {
-  font-weight: bold;
-  letter-spacing: 1px;
-  float: left;
-  display: block;
-  text-align: center;
-  padding: 0px 20px;
-  text-decoration: none;
-}
 
 h1 {
   font-size: 2.8em;
@@ -101,128 +86,86 @@ h1 {
   margin: 0.5em 0 0 0;
 }
 
-/* interactivity */
-input[type='checkbox'] {
-  display: none;
+/* faff about with pure CSS menu */
+.main-menu {
+  /* animation: 5s ease-in 0s 1 text-fadein; */
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0px;
+  text-align: center;
 }
 
-/* faff about with pure CSS menu */
-.lbl-toggle {
+/* that's my secret. I'm always hidden. */
+input[type='radio'] { display: none; }
+
+.menu-button {
+  user-select: none;
   padding: 1rem;
-  color: #A77B0E;
-  background: #FAE042;
+  color: #333;
   cursor: pointer;
   transition: all 0.25s ease-out;
 }
 
-.lbl-toggle:hover {
-  color: #7C5A0B;
+.menu-button:hover {
+  color: #9a966b;
 }
 
-.lbl-toggle::before {
-  content: ' ';
-  display: inline-block;
-
-  border-top: 5px solid transparent;
-  border-bottom: 5px solid transparent;
-  border-left: 5px solid currentColor;
-  vertical-align: middle;
-  margin-right: .7rem;
-  transform: translateY(-2px);
-
-  transition: transform .2s ease-out;
-}
-
-.toggle:checked + .lbl-toggle::before {
-  transform: rotate(90deg) translateX(-3px);
+.content-inner {
+  background: rgba(204, 175, 153, .85);
+  border: 1px solid rgba(66, 66, 66, .1);
+  padding: 10px;
+  margin: 50px 0 0 0;
+  text-align: left;
 }
 
 .photo-content {
   max-height: 0px;
   overflow: hidden;
-  transition: max-height .25s ease-in-out;
+  /*transition: max-height .25s ease-in-out;*/
 }
 
 #photo:checked ~ .photo-toggle ~ .photo-content {
   max-height: 350px;
 }
 
-#photo:checked ~ .lbl-toggle {
+#photo:checked ~ .menu-button {
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
 }
 
-.photo-content .content-inner {
-  background: rgba(250, 224, 66, .2);
-  border-bottom: 1px solid rgba(250, 224, 66, .45);
-  border-bottom-left-radius: 7px;
-  border-bottom-right-radius: 7px;
-  padding: .5rem 1rem;
-}
 
 .about-content {
   max-height: 0px;
   overflow: hidden;
-  transition: max-height .25s ease-in-out;
+  /* transition: max-height .25s ease-in-out; */
 }
 
-#about:checked ~ .lbl-toggle ~ .about-content {
+#about:checked ~ .menu-button ~ .about-content {
   max-height: 350px;
 }
 
-.about-content .content-inner {
-  background: rgba(250, 224, 66, .2);
-  border-bottom: 1px solid rgba(250, 224, 66, .45);
-  border-bottom-left-radius: 7px;
-  border-bottom-right-radius: 7px;
-  padding: .5rem 1rem;
-}
 
 .writing-content {
   max-height: 0px;
   overflow: hidden;
-  transition: max-height .25s ease-in-out;
+  /* transition: max-height .25s ease-in-out; */
 }
 
-#writing:checked ~ .lbl-toggle ~ .writing-content {
+#writing:checked ~ .menu-button ~ .writing-content {
   max-height: 350px;
 }
 
-#writing:checked ~ .lbl-toggle {
+#writing:checked ~ .menu-button {
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
 }
 
-.writing-content .content-inner {
-  background: rgba(250, 224, 66, .2);
-  border-bottom: 1px solid rgba(250, 224, 66, .45);
-  border-bottom-left-radius: 7px;
-  border-bottom-right-radius: 7px;
-  padding: .5rem 1rem;
-}
+
+
 
 /* end faffing about */
 
 
-
-
-.text-area {
-  background: #ebd0bd;
-  border: 1px solid #333;
-}
-
-#about-text, #about:target,
-#photo-text, #photo:target,
-#writing-text, #writing:target
-{
-  display: none;
-}
-
-#about:target ~ #about-text,
-#photo:target ~ #photo-text,
-#writing:target ~ #writing-text {
-  display: inherit;
-}
 
 /*
 <a href="#hide" id="hide">Show</a>
