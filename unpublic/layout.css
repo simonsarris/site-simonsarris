@@ -6,11 +6,229 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: 0px;
   height: 100%;
   display: grid;
   background-color: #ebd0bd;
+  position: relative;
+  /* animation: 2.2s ease-in 0s 1 bg-color-fadein; */
+  font-family: 'Libre Baskerville', serif;
 }
+
+.bg-images {
+  display: grid;
+  margin: auto;
+  justify-items: center;
+  overflow: hidden;
+}
+
+.bg-images img {
+  overflow: auto;
+  max-height: 100%;
+  grid-column: 1;
+  grid-row: 1;
+}
+
+@keyframes bg-color-fadein {
+  0% { opacity: 0; background-color: black; }
+  20% { opacity: 0; background-color: black; }
+  100% { opacity: 1; background-color: #ebd0bd; }
+}
+
+@keyframes text-fadein {
+  0% { opacity: 0; }
+  20% { opacity: 0; }
+  100% { opacity: 0.9; }
+}
+
+@keyframes popvillage {
+  0% { transform: scaleY(0.001); }
+  100% { transform: scaleY(1); }
+}
+
+.bg-sky {
+  z-index: 1;
+}
+
+.bg-town {
+  z-index: 2;
+  transform-origin: left bottom;
+  transform: scaleY(0.001);
+}
+
+.bg-fore {
+  z-index: 3;
+}
+/*
+#town0 { animation: 3.3s cubic-bezier(0, 1.3, 1, 1) 1.8s 1 popvillage forwards; }
+#town1 { animation: 3.7s cubic-bezier(0, 1.2, 1, 1) 3.5s 1 popvillage forwards; }
+#town2 { animation: 3.7s cubic-bezier(0, 1.2, 1, 1) 3.7s 1 popvillage forwards; }
+#town3 { animation: 3.6s cubic-bezier(0, 1.2, 1, 1) 3.9s 1 popvillage forwards; }
+#town4 { animation: 3.6s cubic-bezier(0, 1.2, 1, 1) 4.1s 1 popvillage forwards; }
+#town5 { animation: 3.6s cubic-bezier(0, 1.2, 1, 1) 4.3s 1 popvillage forwards; }
+#town6 { animation: 3.5s cubic-bezier(0, 1.2, 1, 1) 4.5s 1 popvillage forwards; }
+#town7 { animation: 3.4s cubic-bezier(0, 1.2, 1, 1) 4.7s 1 popvillage forwards; }
+*/
+.text {
+  z-index: 4;
+  grid-column: 1;
+  grid-row: 1;
+}
+
+h1 {
+  /* animation: 8s ease-in 0s 1 text-fadein; */
+}
+
+.mainMenu {
+  /* animation: 5s ease-in 0s 1 text-fadein; */
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0px;
+}
+.mainMenu li {
+  font-weight: bold;
+  letter-spacing: 1px;
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 0px 20px;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 2.8em;
+  letter-spacing: 5px;
+  margin: 0.5em 0 0 0;
+}
+
+/* interactivity */
+input[type='checkbox'] {
+  display: none;
+}
+
+/* faff about with pure CSS menu */
+.lbl-toggle {
+  padding: 1rem;
+  color: #A77B0E;
+  background: #FAE042;
+  cursor: pointer;
+  transition: all 0.25s ease-out;
+}
+
+.lbl-toggle:hover {
+  color: #7C5A0B;
+}
+
+.lbl-toggle::before {
+  content: ' ';
+  display: inline-block;
+
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+  vertical-align: middle;
+  margin-right: .7rem;
+  transform: translateY(-2px);
+
+  transition: transform .2s ease-out;
+}
+
+.toggle:checked + .lbl-toggle::before {
+  transform: rotate(90deg) translateX(-3px);
+}
+
+.photo-content {
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height .25s ease-in-out;
+}
+
+#photo:checked ~ .photo-toggle ~ .photo-content {
+  max-height: 350px;
+}
+
+#photo:checked ~ .lbl-toggle {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.photo-content .content-inner {
+  background: rgba(250, 224, 66, .2);
+  border-bottom: 1px solid rgba(250, 224, 66, .45);
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding: .5rem 1rem;
+}
+
+.about-content {
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height .25s ease-in-out;
+}
+
+#about:checked ~ .lbl-toggle ~ .about-content {
+  max-height: 350px;
+}
+
+.about-content .content-inner {
+  background: rgba(250, 224, 66, .2);
+  border-bottom: 1px solid rgba(250, 224, 66, .45);
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding: .5rem 1rem;
+}
+
+.writing-content {
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height .25s ease-in-out;
+}
+
+#writing:checked ~ .lbl-toggle ~ .writing-content {
+  max-height: 350px;
+}
+
+#writing:checked ~ .lbl-toggle {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.writing-content .content-inner {
+  background: rgba(250, 224, 66, .2);
+  border-bottom: 1px solid rgba(250, 224, 66, .45);
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding: .5rem 1rem;
+}
+
+/* end faffing about */
+
+
+
+
+.text-area {
+  background: #ebd0bd;
+  border: 1px solid #333;
+}
+
+#about-text, #about:target,
+#photo-text, #photo:target,
+#writing-text, #writing:target
+{
+  display: none;
+}
+
+#about:target ~ #about-text,
+#photo:target ~ #photo-text,
+#writing:target ~ #writing-text {
+  display: inherit;
+}
+
+/*
+<a href="#hide" id="hide">Show</a>
+<a href="#" id="show">Hide</a>
+<div id="answer"><p>Answer</p></div>
+*/
 
 a {
   color: #e3695f;
@@ -21,34 +239,7 @@ a:hover, a:focus, a:active {
   text-decoration: underline;
 }
 
-p {
-  margin: 1em 0;
-}
 
-/* structure */
-h1 {
-  font-size: 2.8em;
-  letter-spacing: 5px;
-  margin: 0.5em 0 0 0;
-}
-.title {
-  text-align: center;
-  font-size: 2.6em;
-}
 
-@media screen and (max-width: 700px) {
-  .read-more {
-    float: none;
-    display: block;
-    margin: 0 0 1em;
-    line-height: 1.2;
-  }
-}
 
-@media screen and (max-width: 540px) {
-  body {
-    /* padding: 20px; */
-    /*font-size: 0.875em;*/
-  }
-
-}
+/* no media queries lol */

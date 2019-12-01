@@ -8,84 +8,8 @@
   <link rel="stylesheet" type="text/css" href="normalize.css" />
   <link rel="stylesheet" type="text/css" href="layout.css" />
   <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap" rel="stylesheet">
-
   <!-- <link rel="icon" href="..."> -->
 </head>
-
-<style>
-body {
-  position: relative;
-  animation: 2.2s ease-in 0s 1 bg-color-fadein;
-  font-family: 'Libre Baskerville', serif;
-}
-
-.bg-images {
-  display: grid;
-  margin: auto;
-  justify-items: center;
-  overflow: hidden;
-}
-.bg-images img {
-  overflow: auto;
-  max-height: 100%;
-
-  grid-column: 1;
-  grid-row: 1;
-    /* width: 230%; */
-}
-
-
-@keyframes bg-color-fadein {
-    0% { opacity: 0; background-color: black; }
-   20% { opacity: 0; background-color: black; }
-  100% { opacity: 1; background-color: #ebd0bd; }
-}
-
-@keyframes text-fadein {
-    0% { opacity: 0; }
-   20% { opacity: 0; }
-  100% { opacity: 0.9; }
-}
-
-@keyframes popvillage {
-    0% { transform: scaleY(0.001); }
-  100% { transform: scaleY(1); }
-}
-
-.bg-fore {
-  z-index: 3;
-}
-
-.bg-sky {
-  z-index: 1;
-}
-
-.bg-town {
-  z-index: 2;
-  transform-origin: left bottom;
-  transform: scaleY(0.001);
-}
-
-#town0 { animation: 3.3s cubic-bezier(0, 1.3, 1, 1) 1.8s 1 popvillage forwards; }
-#town1 { animation: 3.7s cubic-bezier(0, 1.2, 1, 1) 3.5s 1 popvillage forwards; }
-#town2 { animation: 3.7s cubic-bezier(0, 1.2, 1, 1) 3.7s 1 popvillage forwards; }
-#town3 { animation: 3.6s cubic-bezier(0, 1.2, 1, 1) 3.9s 1 popvillage forwards; }
-#town4 { animation: 3.6s cubic-bezier(0, 1.2, 1, 1) 4.1s 1 popvillage forwards; }
-#town5 { animation: 3.6s cubic-bezier(0, 1.2, 1, 1) 4.3s 1 popvillage forwards; }
-#town6 { animation: 3.5s cubic-bezier(0, 1.2, 1, 1) 4.5s 1 popvillage forwards; }
-#town7 { animation: 3.4s cubic-bezier(0, 1.2, 1, 1) 4.7s 1 popvillage forwards; }
-
-.text {
-  z-index: 4;
-  grid-column: 1;
-  grid-row: 1;
-}
-
-h1 {
-  animation: 8s ease-in 0s 1 text-fadein;
-}
-
-</style>
 
 <body>
 
@@ -103,43 +27,45 @@ h1 {
       <img class="bg-fore" src="bg-foreground.png" />
       <div class="text">
         <h1>Simon Sarris</h1>
-        <ul>
-          <li>photography</li>
-          <li>writing</li>
-          <li>about</li>
-        </ul>
+
+        <div class="mainMenu">
+          <input id="photo" class="toggle" type="checkbox">
+          <label for="photo" class="lbl-toggle photo-toggle">photo</label>
+          <input id="writing" class="toggle" type="checkbox">
+          <label for="writing" class="lbl-toggle writing-toggle">writing</label>
+          <input id="about" class="toggle" type="checkbox">
+          <label for="about" class="lbl-toggle about-toggle">about</label>
+          <div class="photo-content">
+            <div class="content-inner">
+              <p>
+                PHOTO
+              </p>
+            </div>
+          </div>
+          <div class="writing-content">
+            <div class="content-inner">
+              <p>
+                WRITING
+              </p>
+            </div>
+          </div>
+          <div class="about-content">
+            <div class="content-inner">
+              <p>
+                aboot
+              </p>
+            </div>
+          </div>
+
+
+
+        </div>
+
+        </div>
       </div>
     </div>
 
-    <!-- <div class="site-box">
-      <div class="hgroup">
-        <h1 class="title">Simon Sarris</h1>
-      </div>
 
-      <p><em>Friends! Readers! Passer-bys!</em></p>
-      <p>simonsarris.com is once again under construction.</p>
-      <p><em>Soon <span style="font-size: 70%">(okay like 2020)</span> all shall be revealed! And what else to expect
-          but:</em></p>
-      <ul style="padding-left: 20px; list-style-type: square;">
-        <li>Wondrous wonders!</li>
-        <li>Marvelous marvels!</li>
-        <li>The earth itself, made anew!</li>
-        <li>SVG animations, the kind not seen since Byzantine times, crafted with alchemy and love!</li>
-        <li>Coherent photography pages! (For the time thou can still <a
-            href="https://www.instagram.com/simonsarris/">instagram</a>)</li>
-        <li>Fine compositions, exhortations, odes, and poesy! (despair only partially my friends, for the time there is
-          <a href="https://twitter.com/simonsarris">twitter</a>)</li>
-        <li>Exclamations, overflowing! (Consider those provided already as a sign of good faith to you, dear reader)
-        </li>
-        <li>More art than ever before!</li>
-        <li>Probably that cooking show I keep promising <span style="font-size: 70%">(well...)</span></li>
-      </ul>
-      <p><em>Harness your optimism dear reader, and look forward to the future of all things.</em></p>
-
-      <p>As always I can be contacted by driving around new hampshire and shouting my name or else simonsarris at gmail works too.</p>
-
-    </div> -->
-  </div>
 
 
 
