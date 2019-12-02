@@ -1,0 +1,182 @@
+html {
+  height: 100%;
+  color: #333;
+  font: 16px/1.4 'Libre Baskerville', serif;
+  display: grid;
+}
+
+body {
+  margin: 0px;
+  height: 100%;
+  display: grid;
+  background-color: #ebd0bd;
+  position: relative;
+  animation: 2.2s ease-in 0s 1 bg-color-fadein;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.bg-images {
+  display: grid;
+  margin: auto;
+  justify-items: center;
+  overflow: hidden;
+}
+
+.bg-images img {
+  overflow: auto;
+  max-height: 100%;
+  grid-column: 1;
+  grid-row: 1;
+}
+
+@keyframes bg-color-fadein {
+  0% { opacity: 0; background-color: black; }
+  20% { opacity: 0; background-color: black; }
+  100% { opacity: 1; background-color: #ebd0bd; }
+}
+
+@keyframes text-fadein {
+  0% { opacity: 0; }
+  20% { opacity: 0; }
+  100% { opacity: 0.9; }
+}
+
+@keyframes popvillage {
+  0% { transform: scaleY(0.001); }
+  100% { transform: scaleY(1); }
+}
+
+.bg-sky {
+  z-index: 1;
+}
+
+.bg-town {
+  z-index: 2;
+  transform-origin: left bottom;
+  transform: scaleY(0.001);
+}
+
+.bg-fore {
+  z-index: 3;
+}
+
+/* SIMEVILLE, A TOWN IN EIGHT ACTS */
+#town0 { animation: 3.3s cubic-bezier(0, 1.3, 1, 1) 1.8s 1 popvillage forwards; }
+#town1 { animation: 3.7s cubic-bezier(0, 1.2, 1, 1) 3.5s 1 popvillage forwards; }
+#town2 { animation: 3.7s cubic-bezier(0, 1.2, 1, 1) 3.7s 1 popvillage forwards; }
+#town3 { animation: 3.6s cubic-bezier(0, 1.2, 1, 1) 3.9s 1 popvillage forwards; }
+#town4 { animation: 3.6s cubic-bezier(0, 1.2, 1, 1) 4.1s 1 popvillage forwards; }
+#town5 { animation: 3.6s cubic-bezier(0, 1.2, 1, 1) 4.3s 1 popvillage forwards; }
+#town6 { animation: 3.5s cubic-bezier(0, 1.2, 1, 1) 4.5s 1 popvillage forwards; }
+#town7 { animation: 3.4s cubic-bezier(0, 1.2, 1, 1) 4.7s 1 popvillage forwards; }
+
+.text {
+  text-align: center;
+  z-index: 4;
+  grid-column: 1;
+  grid-row: 1;
+}
+
+h1 {
+  animation: 8s ease-in 0s 1 text-fadein;
+}
+
+
+h1 {
+  font-size: 2.8em;
+  letter-spacing: 5px;
+  margin: 0.5em 0 0 0;
+}
+
+/* faff about with pure CSS menu */
+.main-menu {
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0px;
+  text-align: center;
+}
+
+/* that's my secret. I'm always hidden. */
+input[type='radio'] { display: none; }
+
+.menu-button {
+  user-select: none;
+  padding: 1rem;
+  color: #333;
+  cursor: pointer;
+  animation: 5s ease-in 0s 1 text-fadein;
+  text-shadow: 1px 0.5px #e1c8b7;
+  /* transition: all 0.25s ease-out; */
+}
+
+.menu-button:hover {
+  color: #9a966b;
+}
+
+/* applies to all */
+.content-inner {
+  background: rgba(204, 175, 153, .90);
+  border: 1px solid rgba(66, 66, 66, .1);
+  padding: 10px;
+  margin: 210px 0 0 0; /* no text shall rise above simeville */
+  text-align: left;
+  max-width: 700px;
+}
+
+.photo-content {
+  max-height: 0px;
+  overflow: hidden;
+  /*transition: max-height .25s ease-in-out;*/
+}
+
+#photo:checked ~ .photo-toggle ~ .photo-content {
+  max-height: 900px;
+}
+
+#photo:checked ~ .menu-button {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+
+.about-content {
+  max-height: 0px;
+  overflow: hidden;
+  /* transition: max-height .25s ease-in-out; */
+}
+
+#about:checked ~ .menu-button ~ .about-content {
+  max-height: 900px;
+}
+
+
+.writing-content {
+  max-height: 0px;
+  overflow: hidden;
+  /* transition: max-height .25s ease-in-out; */
+}
+
+#writing:checked ~ .menu-button ~ .writing-content {
+  max-height: 900px;
+}
+
+#writing:checked ~ .menu-button {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+/* end faffing about */
+
+a {
+  color: #742a14;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover, a:focus, a:active {
+  text-decoration: underline;
+}
+
+
+
+
+/* no media queries lolololol */
