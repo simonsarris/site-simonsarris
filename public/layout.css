@@ -156,6 +156,9 @@ input[type='radio'] { display: none; }
   background-color: #333;
 }
 /* ugh ok now I really want JavaScript */
+/* the BIRD div and the ::after object are animated separately, along different axes,
+   to allow our feather'd friends some freedom of flight.
+*/
 .BIRD0 {        animation: yAxis 28.5s infinite cubic-bezier(0.3, 0.27, 0.07, 1.64) 5s; }
 .BIRD0::after { animation: xAxis 22.5s infinite cubic-bezier(0.02, 0.01, 0.21, 1) 5s; }
 .BIRD1 {        animation: yAxis 21.5s infinite cubic-bezier(0.3, 0.27, 0.07, 1.64) 5s; }
