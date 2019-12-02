@@ -107,7 +107,7 @@ input[type='radio'] { display: none; }
   color: #333;
   cursor: pointer;
   animation: 5s ease-in 0s 1 text-fadein;
-  text-shadow: 1px 0.5px #e1c8b7;
+  text-shadow: 1px 0.5px #f1f1f1;
   transition: all 0.25s ease-out;
 }
 
