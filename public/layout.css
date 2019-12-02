@@ -106,7 +106,7 @@ input[type='radio'] { display: none; }
   cursor: pointer;
   animation: 5s ease-in 0s 1 text-fadein;
   text-shadow: 1px 0.5px #e1c8b7;
-  /* transition: all 0.25s ease-out; */
+  transition: all 0.25s ease-out;
 }
 
 .menu-button:hover {
@@ -123,46 +123,19 @@ input[type='radio'] { display: none; }
   max-width: 700px;
 }
 
-.photo-content {
+.about-content, .writing-content, .photo-content {
   max-height: 0px;
   overflow: hidden;
-  /*transition: max-height .25s ease-in-out;*/
+  opacity: 0.01;
+  transition: opacity .25s ease-in-out;
 }
 
-#photo:checked ~ .photo-toggle ~ .photo-content {
-  max-height: 900px;
-}
-
-#photo:checked ~ .menu-button {
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-}
-
-
-.about-content {
-  max-height: 0px;
-  overflow: hidden;
-  /* transition: max-height .25s ease-in-out; */
-}
-
-#about:checked ~ .menu-button ~ .about-content {
-  max-height: 900px;
-}
-
-
-.writing-content {
-  max-height: 0px;
-  overflow: hidden;
-  /* transition: max-height .25s ease-in-out; */
-}
-
+/* just wild that this works. check boxes reveal corresponding content divs */
+#about:checked ~ .menu-button ~ .about-content,
+#photo:checked ~ .photo-toggle ~ .photo-content,
 #writing:checked ~ .menu-button ~ .writing-content {
   max-height: 900px;
-}
-
-#writing:checked ~ .menu-button {
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
+  opacity: 1;
 }
 /* end faffing about */
 
