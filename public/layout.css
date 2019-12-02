@@ -104,7 +104,7 @@ input[type='radio'] { display: none; }
   user-select: none;
   font-weight: bold;
   padding: 1rem;
-  color: #333;
+  color: #222;
   cursor: pointer;
   animation: 5s ease-in 0s 1 text-fadein;
   text-shadow: 1px 0.5px #f1f1f1;
