@@ -101,6 +101,7 @@ input[type='radio'] { display: none; }
 
 .menu-button {
   user-select: none;
+  font-weight: bold;
   padding: 1rem;
   color: #333;
   cursor: pointer;
