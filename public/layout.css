@@ -23,6 +23,7 @@ body {
 }
 
 .bg-images img {
+  user-select: none;
   overflow: auto;
   max-height: 100%;
   grid-column: 1;
