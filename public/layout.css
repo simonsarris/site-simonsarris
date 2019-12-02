@@ -139,6 +139,50 @@ input[type='radio'] { display: none; }
 }
 /* end faffing about */
 
+/* BIRDS!! */
+.BIRD {
+  z-index: 5;
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.BIRD::after {
+  content: '';
+  display: block;
+  width: 2.5px;
+  height: 2px;
+  box-shadow: 2px 2px 3px #333;
+  border-radius: 20px;
+  background-color: #333;
+}
+/* ugh ok now I really want JavaScript */
+.BIRD0 {        animation: yAxis 28.5s infinite cubic-bezier(0.3, 0.27, 0.07, 1.64) 5s; }
+.BIRD0::after { animation: xAxis 22.5s infinite cubic-bezier(0.02, 0.01, 0.21, 1) 5s; }
+.BIRD1 {        animation: yAxis 21.5s infinite cubic-bezier(0.3, 0.27, 0.07, 1.64) 5s; }
+.BIRD1::after { animation: xAxis 21.5s infinite cubic-bezier(0.02, 0.01, 0.21, 1) 5s; }
+.BIRD2 {        animation: yAxis 24.5s infinite cubic-bezier(0.3, 0.27, 0.07, 1.64) 5s; }
+.BIRD2::after { animation: xAxis 25.5s infinite cubic-bezier(0.02, 0.01, 0.21, 1) 5s; }
+.BIRD3 {        animation: yAxis 20.5s infinite cubic-bezier(0.3, 0.27, 0.07, 1.64) 5s; }
+.BIRD3::after { animation: xAxis 22.5s infinite cubic-bezier(0.02, 0.01, 0.21, 1) 5s; }
+.BIRD4 {        animation: yAxis 24.5s infinite cubic-bezier(0.3, 0.27, 0.07, 1.64) 5s; }
+.BIRD4::after { animation: xAxis 20.5s infinite cubic-bezier(0.02, 0.01, 0.21, 1) 5s; }
+
+@keyframes yAxis {
+  50% {
+    animation-timing-function: cubic-bezier(0.02, 0.01, 0.21, 1);
+    transform: translateY(300px);
+  }
+}
+
+@keyframes xAxis {
+  50% {
+    animation-timing-function: cubic-bezier(0.3, 0.27, 0.07, 1.64);
+    transform: translateX(600px);
+  }
+}
+/* end birds */
+
+
 a {
   color: #742a14;
   text-decoration: none;
