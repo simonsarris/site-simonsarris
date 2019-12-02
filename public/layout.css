@@ -146,16 +146,19 @@ input[type='radio'] { display: none; }
   z-index: 5;
   grid-column: 1;
   grid-row: 1;
+  height: 30px;
+  transform: translateY(310px);
 }
 
 .BIRD::after {
+  transform: translateX(-130px);
   content: '';
   display: block;
-  width: 2.5px;
+  width: 3.5px;
   height: 2px;
   box-shadow: 2px 2px 3px #333;
-  border-radius: 20px;
-  background-color: #333;
+  border-radius: 2px;
+  background-color: #222;
 }
 /* ugh ok now I really want JavaScript */
 /* the BIRD div and the ::after object are animated separately, along different axes,
@@ -175,7 +178,7 @@ input[type='radio'] { display: none; }
 @keyframes yAxis {
   50% {
     animation-timing-function: cubic-bezier(0.02, 0.01, 0.21, 1);
-    transform: translateY(300px);
+    transform: translateY(200px);
   }
 }
 
