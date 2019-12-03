@@ -108,17 +108,17 @@ input[type='radio'] { display: none; }
   color: #222;
   cursor: pointer;
   animation: 4s ease-in 0s 1 text-fadein;
-  text-shadow: 1px 0.5px #f1f1f1;
+  text-shadow: 0.5px 0.5px #607D8B;
   transition: all 0.25s ease-out;
 }
 
 .menu-button:hover {
-  color: #9a966b;
+  color: #c6aa92;
 }
 
 /* applies to all */
 .content-inner {
-  background: rgba(204, 175, 153, .90);
+  background: rgba(204, 175, 153, .95);
   border: 1px solid rgba(66, 66, 66, .1);
   padding: 10px;
   margin: 210px 0 0 0; /* no text shall rise above simeville */
