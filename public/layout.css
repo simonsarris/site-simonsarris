@@ -137,7 +137,7 @@ input[type='radio'] { display: none; }
 #about:checked ~ .menu-button ~ .about-content,
 #photo:checked ~ .menu-button ~ .photo-content,
 #writing:checked ~ .menu-button ~ .writing-content {
-  max-height: 900px;
+  max-height: none;
   opacity: 1;
 }
 
@@ -148,7 +148,7 @@ input[type='radio'] { display: none; }
   max-height: 0px;
 }
 #primary:checked ~ .primary-content {
-  max-height: 900px;
+  max-height: none;
 }
 /* end faffing about */
 
