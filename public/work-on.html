@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, width=device-width">
+  <title>simonsarris.com</title>
+  <!-- this is where sane people load frameworks and stuff -->
+  <link rel="stylesheet" type="text/css" href="layout.css" />
+  <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap" rel="stylesheet">
+  <link rel="icon" href="favicon.ico">
+
+<body>
+<!--
+  let me just say that CSS3 is rad as hell but
+  it's not any easier to program for the web in 2020 than
+  it was in 2010 or 2000. In a way we have failed everyone.
+-->
+<div class="container">
+  <div class="bg-images">
+    <!-- SIMEVILLE.
+      Just when you thought this website's payload would be small
+      I go and use our old pal, PNG. Yes I know about webp.
+    -->
+    <img class="bg-sky" src="bg-sky.png" />
+    <img class="bg-town" id="town7" src="bg-town7.png" />
+    <img class="bg-town" id="town6" src="bg-town6.png" />
+    <img class="bg-town" id="town5" src="bg-town5.png" />
+    <img class="bg-town" id="town3" src="bg-town3.png" />
+    <img class="bg-town" id="town4" src="bg-town4.png" />
+    <img class="bg-town" id="town2" src="bg-town2.png" />
+    <img class="bg-town" id="town1" src="bg-town1.png" />
+    <img class="bg-town" id="town0" src="bg-town0.png" />
+    <img class="bg-fore" src="bg-foreground.png" />
+    <!-- HA HA! BIRDS!
+          Bet you thought they were animated with meowzerscript
+          but nay, it is CSS. See layout.css for a vague explanation -->
+    <div class="BIRD BIRD0"></div>
+    <div class="BIRD BIRD1"></div>
+    <div class="BIRD BIRD2"></div>
+    <div class="BIRD BIRD3"></div>
+    <div class="BIRD BIRD4"></div>
+    <div class="text">
+      <h1>Simon Sarris</h1>
+
+      <div class="main-menu">
+        <input id="photo" class="toggle" type="radio" name="menuradio">
+        <label for="photo" class="menu-button photo-toggle">photo</label>
+        <input id="writing" class="toggle" type="radio" name="menuradio">
+        <label for="writing" class="menu-button writing-toggle">writing</label>
+        <input id="primary" class="toggle" type="radio" name="menuradio">
+        <label for="primary" class="menu-button primary-toggle">work on</label>
+        <input id="about" class="toggle" type="radio" name="menuradio">
+        <label for="about" class="menu-button about-toggle">about</label>
+        <div class="photo-content">
+          <div class="content-inner">
+            <p>Gallery coming soon. For now, there's <a href="https://www.instagram.com/simonsarris" target="_blank">Instagram</a>.
+            <p>I post lots of documentary-style photos to twitter, such as
+              <a href="https://twitter.com/simonsarris/status/1164147316745523200" target="_blank">Pictures of Home</a> and photo-blogging
+              <a href="https://twitter.com/simonsarris/status/1183143604925190144" target="_blank">my Home, the first year</a>.
+            <p>I advocate at-least-one-photo-a-day, partly because it teaches us to notice our surroundings more, partly for the huge
+            boost to memory, partly because looking back on the record of normal day to day
+            life is its own kind of beautiful. Your own aesthetic tastes are a kind of self discovery,
+            and one of the best ways to exercise this self discovery is through photography.
+            It compels you to ponder what is meaningful and beautiful in your surroundings.
+            Once you know this, you can make them more beautiful.
+            I share photos because I want to make people feel wonder and emotions that are difficult
+            to put into words but feel very right to "show." If you see and capture them you can
+            show that they exist as part of the landscape, that emotions surround us, they are not just internal.
+            <p>Photos, like paintings, help you see the moods that inhabit the world.
+          </div>
+        </div>
+        <div class="writing-content">
+          <div class="content-inner">
+            <p>For micro-blogging I use <a href="https://twitter.com/simonsarris" target="_blank">my Twitter</a> a lot lately.
+              <p>For longer writing I have been using
+                <a href="https://medium.com/@simon.sarris" target="_blank">Medium</a>.
+                <p>Recently written:
+                  <em>
+                    <a href="https://medium.com/@simon.sarris/are-we-still-thinking-795bd9f4a658">Are We Still Thinking?</a>
+                  </em>
+                  We lived in a state of dialogue for millennia, almost all knowledge was two-way communication.
+                  Even with books, everyS person talked to more people, sometimes in a single day, than they had ever read.
+                  Then between the printing press and radio we switched to one-way communication as the norm,
+                  and now it's the opposite. The consequences of this are not fully appreciated.
+                </p>
+          </div>
+        </div>
+        <div class="about-content">
+          <div class="content-inner">
+            <p>What is good: Sacred things, making things, photography, kalopsía.
+            <p>At work I make: <a href="http://gojs.net" target="_blank">GoJS</a>, a diagramming library for the web. My resume is <a href="SimonSarrisResume.pdf">here</a>.
+            <p>I can be found on <a href="https://twitter.com/simonsarris" target="_blank">Twitter</a>.
+              I can be contacted by driving around new hampshire and shouting my name or else simonsarris at gmail works too.
+            <p>Simeville, which you behold, is based on a 1550's painting by Sebastian Münster of Speyer, Germany.
+              We find great consolation in landscape, don't we? And architecture, good or bad, twists and turns our moods.
+            <p>This site uses no JavaScript in its interactivity, only CSS transitions and animation.
+            <p>In labouring to be concise, I become obscure.
+          </div>
+        </div>
+
+        <!-- guess its time to use a static site generator :(  -->
+        <div class="primary-content">
+          <div class="content-inner">
+<h2>Work on these (other) things</h2>
+<p>
+  Tyler Cowen's <a href="https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html">
+  Work on these things</a> post has some interesting suggestions, but I think it offers a
+  too-calculating view of the world. It feels incomplete, so here are some projects I would like to see funded,
+  or will attempt myself.
+</p>
+<p>
+  <strong>Develop the aesthetics of progress.</strong>
+  Humans have innate, Apollonian love of an ordered world and the mastery of immense forces,
+  including mastery of nature, from beautiful gardens to spaceflight.
+  These feelings speak to us, capturing them propels us. The beauty in these things matters.
+</p>
+<img src="images\airplane.jpg" style="max-width: 340px; vertical-align: middle;" />
+<img src="images\dam.jpg" style="max-width: 340px; vertical-align: middle;" />
+<p>
+Rationalistic worldviews have downplayed much of what motivates humans, which seems like a uniquely modern mistake.
+This impacts every aspect of lives,
+including scientific progress, architecture, even birth rates.
+The future starts from belief, not rationalism, and belief is cultivated partly with aesthetics.
+Progress will come from regaining a grasp on the aesthetics that move us.
+</p>
+
+<p>
+  <strong>Develop the folk future.</strong> Consider the difference between these two images:
+</p>
+<img src="images\future1.jpg" style="max-width: 300px; vertical-align: middle;" />
+<img src="images\future2.jpg" style="max-width: 380px; vertical-align: middle;" />
+<p>
+  How do they make you feel?
+</p>
+<p>
+  Visions of the future need to allow people—not just the cleverest among us, but all people—to
+  imagine accepting their place in a natural order.
+  For any future place, there has to be a feeling that you could come of age there,
+  not just explore it once you are already an adult.
+</p>
+<p>
+  Many fairy tales and stories generally are about finding one's place.
+  You start as a child, full of wonder, and you end with the mastery of the world.
+  So it is with creating the future:
+  If you want people to <em>believe</em> in progress,
+  the fairy tale is what you must show them, not the cyber highway or the economic version of vital statistics.
+  If the future is to be concieved, I hope it is one that is far happier, messier, and greener than
+  futuristic cinema currently enjoys depicting.
+</p>
+<p>
+  <strong>Make the world better for average people.</strong> The lowest hanging fruit in the progress
+  of many endeavors is forgotten because the average person is often forgotten. It's worth starting
+  to explore the area by simply asking ourselves, what products, apps, etc, have improved the lives of
+  the average person (barely online, barely tech literate) the most in the past 10 years? How? How are they
+  different from the ones that have improved our (presumably tech-literate) lives?
+</p>
+<p>
+  For example, in many (semi-)rural communities near me, I think Square card readers have changed the game
+  for viability of farmers markets, makers markets, and other pop-up businesses.
+  I know they have for my low-tech friends. In this way Square perhaps has done more than the FANGs combined
+  to change the livelihoods of semi-rural places in the last decade.
+  <em>What other services are not-affluent-20-to-30-somethings missing?</em>
+  What is still too hard for the average person to do? How can we improve it?
+</p>
+
+<p><strong>Recapture beauty.</strong></p>
+<img src="images\house1.jpg" style="max-width: 300px; vertical-align: middle;" />
+<img src="images\house2.jpg" style="max-width: 380px; vertical-align: middle;" />
+<p>
+How did this happen? Even rich people often live in terribly ugly homes.
+With all the advantages of technology, we rarely build beautiful structures.
+All the progress in mechanization and materials seems to be little match
+for the colossal bad taste that permeates modern environments.
+It is far easier to move the earth than it was 200 years ago,
+yet the end result gives a feeling that nobody is really trying their best.
+</p>
+<p>
+This extends beyond structures. The machine age has let us do so much, but it has also degraded work and craft
+into a means, taking something away from us in the process.
+What it has done to work it has done to art and leisure as well.
+If we may have another renaissance, it will be a recapturing of beauty.
+</p>
+
+<p>
+Where gods may exist in history, they walk in gardens, temples, groves.
+I wonder every day: If we stop building beautiful places and magnificent things, why have we done so?
+What forces have left the world? What work can we do towards recapturing these things?
+</p>
+
+          </div>
+        </div>
+
+      </div>
+
+      </div>
+    </div>
+  </div>
+
+</body>
+
+<!--
+  MaKE sURe itS iN ThE HEaDeR. ya ok sure thing goog.
+  can't believe this is the only js I'm using
+  maybe there's a better way.
+  maybe it should be my happy fortune, not to see or hear,
+  how many peeps show up to my website.
+  alas.
+-->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-7601972-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'UA-7601972-1');
+</script>
+
+
+</html>

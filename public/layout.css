@@ -135,10 +135,20 @@ input[type='radio'] { display: none; }
 
 /* just wild that this works. check boxes reveal corresponding content divs */
 #about:checked ~ .menu-button ~ .about-content,
-#photo:checked ~ .photo-toggle ~ .photo-content,
+#photo:checked ~ .menu-button ~ .photo-content,
 #writing:checked ~ .menu-button ~ .writing-content {
   max-height: 900px;
   opacity: 1;
+}
+
+/* This is only relevant for non-index.html pages */
+#about:checked ~ .primary-content,
+#photo:checked ~ .primary-content,
+#writing:checked ~ .primary-content {
+  max-height: 0px;
+}
+#primary:checked ~ .primary-content {
+  max-height: 900px;
 }
 /* end faffing about */
 
