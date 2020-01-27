@@ -4,10 +4,10 @@ title: "Goals for 2020"
 date: "1.26.2020"
 ---
 
-I prefer a list of goals, ideally a list that would be non-trivial to achieve, in lieu of new years resolutions.
+I prefer a list of goals that emphasize actions, ideally a list that would be non-trivial to achieve, in lieu of new years resolutions (which often emphasize behavior).
 I encourage you to make something similar.
 
-Things to accomplish, or try to, in 2020. Goals are numbered only in the order I thought of them. I will try to update this page as I succeed or fail at goals.
+Here are my goals to attempt in 2020. Goals are numbered only in the order I thought of them. I will update this page as I succeed or fail.
 
 1. Finish clearing the 3rd field (overtaken by pines) and plant about a half-acre(?) of buckwheat by hand(???) harvest by hand.
 
@@ -89,7 +89,7 @@ Things to accomplish, or try to, in 2020. Goals are numbered only in the order I
   <img src="../images/posts/goals2020/island.jpg" alt="Kitchen island" style="max-height: 400px;" />
 </div>
 
-23. Make some kind of village builder, simulator, or collaboration game. Something beautiful. Probably in HTML Canvas.
+23. Make some kind of village builder, simulator, or collaboration game. Something beautiful. Probably in HTML Canvas. Probably (???) in 3d.
 
 24. Re-start the orchard, that was started and semi- (mostly?) destroyed this year. Plant bigger trees or come up with something for deer defense.
 
