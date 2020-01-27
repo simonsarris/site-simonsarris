@@ -5,6 +5,7 @@ date: "1.26.2020"
 ---
 
 I prefer a list of goals, ideally a list that would be non-trivial to achieve, in lieu of new years resolutions.
+I encourage you to make something similar.
 
 Things to accomplish, or try to, in 2020. Goals are numbered only in the order I thought of them. I will try to update this page as I succeed or fail at goals.
 
