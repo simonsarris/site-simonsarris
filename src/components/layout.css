@@ -112,11 +112,11 @@ h1 {
 
 /* main text area */
 .primary-content {
-  /* animation: primary-fadein 3s ease-in 0s 1; */
+  animation: primary-fadein 2s ease-in 0s 1;
 }
 @keyframes primary-fadein {
   0% { opacity: 0; }
-  50% { opacity: 0; }
+  50% { opacity: 0.8; }
   100% { opacity: 1; }
 }
 

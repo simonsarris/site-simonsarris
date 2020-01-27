@@ -1,6 +1,7 @@
 ---
 path: "/"
 title: ""
+silentTitle: "Home"
 ---
 
 *What's new:*

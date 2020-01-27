@@ -9,7 +9,7 @@ export default function Template({
   const { frontmatter, html } = markdownRemark
   return (
     <>
-    <SEO title={frontmatter.title} />
+      <SEO title={frontmatter.title || frontmatter.silentTitle} />
     <div className="blog-post-container">
       <div className="blog-post">
         <h2>{frontmatter.title}</h2>
@@ -30,6 +30,7 @@ export const pageQuery = graphql`
         date
         path
         title
+        silentTitle
       }
     }
   }
