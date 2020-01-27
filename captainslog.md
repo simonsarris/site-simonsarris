@@ -2,6 +2,14 @@
 
 ### Captain's log, January 26th, 2020
 
+NEW SITE: SHIPPED. wew. Now I can work on making the background this crazy canvas thing.
+
+love you, internet.
+
+ss
+
+### Captain's log, January 26th, 2020
+
 For the sake of Simplicity I'll start with Gatsby. The layout works. Markdown pages work. Yay progress.
 
 Gotta add some pages, but its workable enough to commit.
