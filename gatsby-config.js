@@ -23,21 +23,6 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: { path: `${__dirname}/src/images`, },
     },
-    // { // For markdown images
-    //   resolve: `gatsby-plugin-mdx`,
-    //   options: {
-    //     gatsbyRemarkPlugins: [
-    //       {
-    //         resolve: `gatsby-remark-images`,
-    //         options: {
-    //           maxWidth: 1200,
-    //         },
-    //       },
-    //     ],
-    //   },
-    // },
-    // For markdown images. Unclear if both are necessary:
-
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     {
@@ -56,9 +41,6 @@ module.exports = {
         ],
       },
     },
-
-
-
     //`gatsby-transformer-remark`,
     {
       resolve: `gatsby-plugin-prefetch-google-fonts`,
@@ -69,6 +51,17 @@ module.exports = {
             variants: [`400`, `700`]
           },
         ],
+      },
+    },
+
+
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // The property ID; the tracking code won't be generated without it
+        trackingId: "UA-7601972-1",
+        // Defines where to place the tracking script - `true` in the head and `false` in the body
+        head: false
       },
     },
     `gatsby-plugin-react-helmet`,
