@@ -4,10 +4,7 @@ title: "Goals for 2020"
 date: "1.26.2020"
 ---
 
-I prefer a list of goals that emphasize actions, ideally a list that would be non-trivial to achieve, in lieu of new years resolutions (which often emphasize behavior).
-I encourage you to make something similar.
-
-Here are my goals to attempt in 2020. Goals are numbered only in the order I thought of them. I will update this page as I succeed or fail.
+Goals are numbered only in the order I thought of them. I will try to update this page as I succeed or fail.
 
 1. Finish clearing the 3rd field (overtaken by pines) and plant about a half-acre(?) of buckwheat by hand(???) harvest by hand.
 
