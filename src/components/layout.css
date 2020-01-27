@@ -1,0 +1,218 @@
+html {
+  height: 100%;
+  color: #333;
+  font: 16px/1.4 'Libre Baskerville', serif;
+  display: grid;
+}
+
+body {
+  margin: 0px;
+  height: 100%;
+  display: grid;
+  background-color: #ebd0bd;
+  position: relative;
+  animation: bg-color-fadein 2.2s ease-in 0s 1;
+  font-family: 'Libre Baskerville', serif;
+}
+
+@keyframes bg-color-fadein {
+  0% { opacity: 0; background-color: black; }
+  20% { opacity: 0; background-color: black; }
+  100% { opacity: 1; background-color: #ebd0bd; }
+}
+
+.bg-images {
+  display: grid;
+  margin: auto;
+  justify-items: center;
+  overflow: hidden;
+}
+
+.bg-images img {
+  user-select: none;
+  overflow: auto;
+  max-height: 100%;
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.bg-sky {
+  z-index: 1;
+}
+
+.bg-town {
+  z-index: 2;
+  transform-origin: left bottom;
+  transform: scaleY(0.001);
+}
+
+.bg-fore {
+  z-index: 3;
+}
+
+/* SIMEVILLE, A TOWN IN EIGHT ACTS */
+#town0 { animation: popvillage 3.3s cubic-bezier(0, 1.3, 1, 1) 1.8s 1 forwards; }
+#town1 { animation: popvillage 3.7s cubic-bezier(0, 1.2, 1, 1) 3.5s 1 forwards; }
+#town2 { animation: popvillage 3.7s cubic-bezier(0, 1.2, 1, 1) 3.7s 1 forwards; }
+#town3 { animation: popvillage 3.6s cubic-bezier(0, 1.2, 1, 1) 3.9s 1 forwards; }
+#town4 { animation: popvillage 3.6s cubic-bezier(0, 1.2, 1, 1) 4.1s 1 forwards; }
+#town5 { animation: popvillage 3.6s cubic-bezier(0, 1.2, 1, 1) 4.3s 1 forwards; }
+#town6 { animation: popvillage 3.5s cubic-bezier(0, 1.2, 1, 1) 4.5s 1 forwards; }
+#town7 { animation: popvillage 3.4s cubic-bezier(0, 1.2, 1, 1) 4.7s 1 forwards; }
+@keyframes popvillage {
+  0% { transform: scaleY(0.001); }
+  100% { transform: scaleY(1); }
+}
+
+.text {
+  text-align: center;
+  z-index: 4;
+  grid-column: 1;
+  grid-row: 1;
+}
+
+/* h1 {
+  animation: text-fadein 8s ease-in 0s 1;
+} */
+@keyframes text-fadein {
+  0% { opacity: 0; }
+  20% { opacity: 0; }
+  100% { opacity: 0.9; }
+}
+
+h1 {
+  font-size: 2.8em;
+  letter-spacing: 5px;
+  margin: 0.5em 0 0 0;
+  white-space: nowrap;
+}
+
+/* top nav */
+.main-menu {
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0px;
+  text-align: center;
+}
+
+.main-menu a {
+  user-select: none;
+  font-weight: bold;
+  padding: 1rem;
+  color: #222;
+  cursor: pointer;
+  animation: 4s ease-in 0s 1 text-fadein;
+  text-shadow: 0.5px 0.5px #607D8B;
+  transition: all 0.25s ease-out;
+}
+
+.main-menu a:hover {
+  color: #c6aa92;
+}
+
+/* main text area */
+.primary-content {
+  /* animation: primary-fadein 3s ease-in 0s 1; */
+}
+@keyframes primary-fadein {
+  0% { opacity: 0; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.content-inner {
+  background: rgba(204, 175, 153, .95);
+  border: 1px solid rgba(66, 66, 66, .1);
+  padding: 10px;
+  margin: 210px 0 0 0; /* no text shall rise above simeville */
+  text-align: left;
+  max-width: 700px;
+}
+
+a {
+  text-decoration: none;
+}
+.primary-content a {
+  color: #742a14;
+  font-weight: bold;
+}
+.primary-content a:hover, a:focus, a:active {
+  text-decoration: underline;
+}
+h1 a {
+  color: #333;
+  font-weight: bold;
+}
+h1 a:hover, a:focus, a:active {
+  text-decoration: none;
+}
+
+
+/* end faffing about */
+
+/* BIRDS!! */
+.BIRD {
+  z-index: 5;
+  grid-column: 1;
+  grid-row: 1;
+  height: 30px;
+  transform: translateY(310px);
+}
+
+.BIRD::after {
+  transform: translateX(-130px);
+  content: '';
+  display: block;
+  width: 3.5px;
+  height: 2px;
+  box-shadow: 2px 2px 3px #333;
+  border-radius: 2px;
+  background-color: #222;
+}
+/* ugh ok now I really want JavaScript */
+/* the BIRD div and the ::after object are animated separately, along different axes,
+   to allow our feather'd friends some freedom of flight.
+*/
+.BIRD0 {        animation: yAxis 28.5s infinite cubic-bezier(0.3, 0.27, 0.07, 1.64) 5s; }
+.BIRD0::after { animation: xAxis 22.5s infinite cubic-bezier(0.02, 0.01, 0.21, 1) 5s; }
+.BIRD1 {        animation: yAxis 21.5s infinite cubic-bezier(0.3, 0.27, 0.07, 1.64) 5s; }
+.BIRD1::after { animation: xAxis 21.5s infinite cubic-bezier(0.02, 0.01, 0.21, 1) 5s; }
+.BIRD2 {        animation: yAxis 24.5s infinite cubic-bezier(0.3, 0.27, 0.07, 1.64) 5s; }
+.BIRD2::after { animation: xAxis 25.5s infinite cubic-bezier(0.02, 0.01, 0.21, 1) 5s; }
+.BIRD3 {        animation: yAxis 20.5s infinite cubic-bezier(0.3, 0.27, 0.07, 1.64) 5s; }
+.BIRD3::after { animation: xAxis 22.5s infinite cubic-bezier(0.02, 0.01, 0.21, 1) 5s; }
+.BIRD4 {        animation: yAxis 24.5s infinite cubic-bezier(0.3, 0.27, 0.07, 1.64) 5s; }
+.BIRD4::after { animation: xAxis 20.5s infinite cubic-bezier(0.02, 0.01, 0.21, 1) 5s; }
+
+@keyframes yAxis {
+  50% {
+    animation-timing-function: cubic-bezier(0.02, 0.01, 0.21, 1);
+    transform: translateY(200px);
+  }
+}
+
+@keyframes xAxis {
+  50% {
+    animation-timing-function: cubic-bezier(0.3, 0.27, 0.07, 1.64);
+    transform: translateX(600px);
+  }
+}
+/* end birds */
+
+/* flex box for images */
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  align-items: center;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+
+/* no media queries lolololol */
