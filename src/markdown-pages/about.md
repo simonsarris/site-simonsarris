@@ -5,7 +5,7 @@ title: "About"
 
 Sacred things, making things, photography, kalopsía.
 
-At work I make: <a href="https://gojs.net" target="_blank" rel="noopener noreferrer">GoJS</a>, a diagramming library for the web. My resume is <a href="/SimonSarrisResume.pdf">here</a>.
+At work I make: <a href="https://gojs.net" target="_blank" rel="noopener noreferrer">GoJS</a>, a JavaScript/TypeScript diagramming library for the web. My resume is <a href="/SimonSarrisResume.pdf">here</a>.
 
 I can be found on <a href="https://twitter.com/simonsarris" target="_blank" rel="noopener noreferrer">Twitter</a>.
 I can be contacted by driving around new hampshire and shouting my name or else simonsarris at gmail works too.

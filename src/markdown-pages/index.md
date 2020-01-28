@@ -7,13 +7,15 @@ silentTitle: "Home"
 *What's new:*
 
 
+[Questions for States](/questions-for-states) (Jan 27 2020)
+
 [Goals for 2020](/goals2020) (Jan 26 2020)
 
 [Designing a New Old Home: Part 1](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41) (Jan 16 2019, on Medium)
 
 The start of a series on designing and building our home, with advice and considerations for designing your own.
 
-[Work on these (other) things](/work-on) (Jan 26 2020)
+[Work on these (other) things](/work-on) (Jan 9 2020)
 
 [Are We Still Thinking?](https://medium.com/@simon.sarris/are-we-still-thinking-795bd9f4a658) (Dec 17 2019, on Medium)
 

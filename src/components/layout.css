@@ -121,7 +121,7 @@ h1 {
 }
 
 .content-inner {
-  background: rgba(204, 175, 153, .95);
+  background: #ebd0bd;
   border: 1px solid rgba(66, 66, 66, .1);
   padding: 10px;
   margin: 210px 0 0 0; /* no text shall rise above simeville */

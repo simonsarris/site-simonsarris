@@ -17,6 +17,7 @@ export default function Template({
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
         />
+        <em style={{ fontSize: "80%" }}>{frontmatter.date}</em>
       </div>
     </div>
     </>
