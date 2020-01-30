@@ -16,6 +16,8 @@ These are organizations that have digitized a number of high resolution scans. I
 
 [US National Gallery of Art](https://www.nga.gov/collection.html) — Huge collection. Terrible for browsing, but excellent if you know what you want. Very meticulous search parameters and filters by age, country, materials, technique, place of production, etc.
 
+[Bibliothèque nationale de France](https://gallica.bnf.fr/accueil/en/content/accueil-e) — Almost 6 million works, including lots of medieval manuscripts and old photos (like [this World War 1 collection](https://gallica.bnf.fr/html/und/histoire/premiere-guerre-mondiale)).
+
 ## Useful but terribly organized
 
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) — The Commons boasts 58,727,714 "freely usable media files" (all types). What's not usable is their organization. Works are either put under an author, or else put into categories and subcategories, which a huge number of such categories missing. It's a huge mess.
@@ -32,9 +34,7 @@ The navigation is some of the worst I have seen since the days of Flash. Just wi
 
 The **major** plus of Google Art is the timeline view to sort works in a category or museum by year. You still have to deal with the absolutely bonkers navigation.
 
-<div style="max-width: 500px; margin: auto;">
 <img src="../images/posts/art-collections/timeline.png" alt="Google Art Timeline" title="Google Art Timeline" />
-<div>
 
 
 ## Small but quality
