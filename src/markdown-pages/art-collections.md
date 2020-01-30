@@ -16,8 +16,6 @@ These are organizations that have digitized a number of high resolution scans. I
 
 [US National Gallery of Art](https://www.nga.gov/collection.html) — Huge collection. Terrible for browsing, but excellent if you know what you want. Very meticulous search parameters and filters by age, country, materials, technique, place of production, etc.
 
-
-
 ## Useful but terribly organized
 
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) — The Commons boasts 58,727,714 "freely usable media files" (all types). What's not usable is their organization. Works are either put under an author, or else put into categories and subcategories, which a huge number of such categories missing. It's a huge mess.
@@ -38,11 +36,16 @@ The **major** plus of Google Art is the timeline view to sort works in a categor
 <img src="../images/posts/art-collections/timeline.png" alt="Google Art Timeline" title="Google Art Timeline" />
 <div>
 
-### Hall of Shame
+
+## Small but quality
+
+[King George III's Collection of Military Maps](https://militarymaps.rct.uk/the-maps) — Approx 3,000 very cool maps. Inexplicably, no map search! But you can search by date and conflict. Many of the maps contain  beautiful embellishments. None of them are animated with CSS.
+
+## Hall of Shame
 
 I was going to list all the museums/collections that I've looked at which were not so useful but that's silly. Suffice to say that there are many online collections with poor navigation, middling resolution, and almost all works copyrighted, and they want you to pay to license even photos of the museum building. Like Guggenheim. Somehow contemporary art people are always the biggest squares.
 
 
-### Am I missing any?
+## Am I missing any?
 
 If you know a very good source that's not on the list, especially for older archival material like early photographs, maps, manuscripts, let me know and I'll add it. (Please don't send me tiny sources, this isn't trying to be an exhaustive list!)
