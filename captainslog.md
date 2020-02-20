@@ -1,4 +1,9 @@
 
+### Captain's log, Feb 1st, 2020
+
+To redo the background in canvas I'm starting simeville as a repo.
+
+ss
 
 ### Captain's log, January 26th, 2020
 
