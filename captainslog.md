@@ -1,7 +1,7 @@
 
 ### Captain's log, Feb 1st, 2020
 
-To redo the background in canvas I'm starting simeville as a repo.
+To redo the background in canvas I'm starting [simeville](https://github.com/simonsarris/simeville) as a repo.
 
 ss
 
