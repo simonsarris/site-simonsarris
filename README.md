@@ -1,4 +1,4 @@
-# this is the code for [simonsarris.com](simonsarris.com)
+# this is the code for [simonsarris.com](https://simonsarris.com)
 
 It is my home page
 
