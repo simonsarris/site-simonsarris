@@ -18,6 +18,8 @@ These are organizations that have digitized a number of high resolution scans. I
 
 [Bibliothèque nationale de France](https://gallica.bnf.fr/accueil/en/content/accueil-e) — Almost 6 million works, including lots of medieval manuscripts and old photos (like [this World War 1 collection](https://gallica.bnf.fr/html/und/histoire/premiere-guerre-mondiale)).
 
+[Smithsonian Digital Collection](https://www.si.edu/explore) — 2.8 Million images in the public domain. Lots of images of artifacts. Not very well organized for browsing, unfortunately, but many articles have a lot of metadata. The advanced search is in a different place, [here](http://collections.si.edu/search/).
+
 ## Useful but terribly organized
 
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) — The Commons boasts 58,727,714 "freely usable media files" (all types). What's not usable is their organization. Works are either put under an author, or else put into categories and subcategories, which a huge number of such categories missing. It's a huge mess.
