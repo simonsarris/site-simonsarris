@@ -43,6 +43,8 @@ The **major** plus of Google Art is the timeline view to sort works in a categor
 
 [King George III's Collection of Military Maps](https://militarymaps.rct.uk/the-maps) — Approx 3,000 very cool maps. Inexplicably, no map search! But you can search by date and conflict. Many of the maps contain  beautiful embellishments. None of them are animated with CSS.
 
+[David Rumsey Map Collection](https://www.davidrumsey.com/) — Over 50,000 maps, with digitization dating back to 1996. They are licensed under [Creative Commons Noncommercial license](https://creativecommons.org/licenses/by-nc-sa/3.0/). The site has some very neat [search tools](https://www.davidrumsey.com/view).
+
 ## Hall of Shame
 
 I was going to list all the museums/collections that I've looked at which were not so useful but that's silly. Suffice to say that there are many online collections with poor navigation, middling resolution, and almost all works copyrighted, and they want you to pay to license even photos of the museum building. Like Guggenheim. Somehow contemporary art people are always the biggest squares.
