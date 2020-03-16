@@ -1,7 +1,7 @@
 ---
 path: "/sunlight"
 title: "Coronavirus: Let There Be Light"
-date: "1.29.2020"
+date: "3.16.2020"
 ---
 
 Reviewing the data we have so far, a line of questions seems striking: Has the virus hit locales the hardest which have lower than average sunshine? Geriatric patients who *survive*, do they leave the house more, etc? I now suspect that total sunshine hours correlate somewhat to the *lethality* of outcomes in different areas.
