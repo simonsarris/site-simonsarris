@@ -49,7 +49,10 @@ Iran has very diverse sunshine amounts so we need to know where the deaths are c
 * In Rasht, Iran **90, 78, 71, 113** for Jan, Feb, Mar, April
 * Tehran is better: **169, 180, 203, 221** for Jan, Feb, Mar, April
 
+And of course, any pollution will further reduce sun, and worsen respiratory diseases.
+
 Places less hard hit:
+
 * Bangkok **250-275** (Feb-March)
 * Kuala Lumpur **185, 192, 208** (Jan Feb March)
 * Ho Chi Minh City, **272** (March)
