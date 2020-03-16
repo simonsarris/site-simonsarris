@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `simon sarris`,
-    description: `simeville`,
+    // this should be different per post?
+    description: `simon sarris`,
     author: `@simonsarris`,
   },
   plugins: [
