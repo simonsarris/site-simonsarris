@@ -39,8 +39,8 @@ So if the Italy pandemic model is expected to scale to every country, and these 
 Sunshine *seems* to matter. Have a look at Sunshine hours, in March unless otherwise noted
 
 Places hard hit:
-* Wuhan: **100** (In feb)
-* Paris: **129** (North France harder it by # of cases, cannot find death info)
+* Wuhan: **100** (In Feb)
+* Paris: **79-129** (Feb-March, North France harder it by # of cases, cannot find death info)
 * Bergamo Italy: **100-150** (Feb-March average)
 * Seattle WA: **100-150** (Feb-March)
 
