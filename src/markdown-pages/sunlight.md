@@ -80,7 +80,7 @@ I cannot personally suggest anything beyond "normal" daily amounts, and you shou
 
 ## Conclusion
 
-Vitamin D supplementation for *everyone* might be a good idea. It's inexpensive and has no side-effects. Spring might be optimistic for the northern hemisphere, and somewhat worrisome for the southern.
+Vitamin D supplementation for *everyone* might be a good idea. Spring might be optimistic for the northern hemisphere, and somewhat worrisome for the southern hemisphere. The worst that can be said for vitamin D is that supplementation may have no additional benefit if a person is not deficient.
 
 Getting sun might be an even better idea. Vitamin D is a proxy for sunlight, and sunlight almost certainly has other good effects, like the synthesis of nitric oxide.
 
