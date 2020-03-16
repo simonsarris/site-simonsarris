@@ -44,6 +44,11 @@ Places hard hit:
 * Bergamo Italy: **100-150** (Feb-March average)
 * Seattle WA: **100-150** (Feb-March)
 
+Iran has very diverse sunshine amounts so we need to know where the deaths are concentrated.
+
+* In Rasht, Iran **90, 78, 71, 113** for Jan, Feb, Mar, April
+* Tehran is better: **169, 180, 203, 221** for Jan, Feb, Mar, April
+
 Places less hard hit:
 * Bangkok **250-275** (Feb-March)
 * Kuala Lumpur **185, 192, 208** (Jan Feb March)
@@ -69,6 +74,8 @@ I cannot personally suggest anything beyond "normal" daily amounts, and you shou
 ## Conclusion
 
 Vitamin D supplementation for *everyone* might be a good idea. It's inexpensive and has no side-effects. Spring might be optimistic for the northern hemisphere, and somewhat worrisome for the southern.
+
+Getting sun might be an even better idea. Vitamin D is a proxy for sunlight, and sunlight almost certainly has other good effects, like the synthesis of nitric oxide.
 
 <img src="../images/posts/sunshine/light.jpeg" alt="Let There Be Light" title="Let There Be Light" />
 
