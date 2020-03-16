@@ -4,6 +4,10 @@ title: "Coronavirus: Let There Be Light"
 date: "3.16.2020"
 ---
 
+### We should all be supplementing with vitamin D
+
+Below is a loose (but I think non-trivial) case for mass vitamin D supplementation ASAP. This is something you can do yourself or with your family, today.
+
 Reviewing the data we have so far, a line of questions seems striking: Has the virus hit locales the hardest which have lower than average sunshine? Geriatric patients who *survive*, do they leave the house more, etc? I now suspect that total sunshine hours correlate somewhat to the *lethality* of outcomes in different areas.
 
 Note that I have no claims to make about *transmission,* or advice beyond vitamin D supplementation. My level of certainty is low. I do think this information is optimistic, because the timing for many countries—facing this pandemic in March and April instead of January and Februrary—may make this easier to bear.
