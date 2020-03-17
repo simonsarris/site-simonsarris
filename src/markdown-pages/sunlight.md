@@ -6,7 +6,7 @@ date: "3.16.2020"
 
 ### We should all be supplementing with vitamin D
 
-Below is a loose (but I think non-trivial) case for mass vitamin D supplementation ASAP. This is something you can do yourself or with your family, today.
+Below is a loose (but I think non-trivial) case for mass vitamin D supplementation. This is something you can do yourself or with your family, today.
 
 Reviewing the data we have so far, a line of questions seems striking: Has the virus hit locales the hardest which have lower than average sunshine? Geriatric patients who *survive*, do they leave the house more, etc? I now suspect that total sunshine hours correlate somewhat to the *lethality* of outcomes in different areas.
 
@@ -68,9 +68,17 @@ Are there other places worth looking, or other countries with early outbreaks th
 
 The worst US places by sunshine are Alaska, but also Ohio and Washington. Even then, places like Juneau AK rapidly get more sunshine. March is 137.3 hours for them, April is 182.3 hours.
 
+## All this could simply point to temp and humidity reducing transmission
+
+For example, a paper that came out March 10: [High Temperature and High Humidity Reduce the Transmission of COVID-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3551767)
+
+> Using the daily R values from January 21 to 23, 2020 as proxies of non-intervened transmission intensity, we find, under a linear regression framework for 100 Chinese cities, high temperature and high relative humidity significantly reduce the transmission of COVID-19, respectively, even after controlling for population density and GDP per capita of cities. One degree Celsius increase in temperature and one percent increase in relative humidity lower R by 0.0383 and 0.0224, respectively. This result is consistent with the fact that the high temperature and high humidity significantly reduce the transmission of influenza. It indicates that the arrival of summer and rainy season in the northern hemisphere can effectively reduce the transmission of the COVID-19.
+
+However this does not explain the relative differences in *lethality* that we've seen in sunnier locales, only transmission. Since large numbers of people are vitamin D deficient, the sunshine angle is worth exploring. Low vitamin D levels have been called an [epidemic in the United States in 2005](https://www.ncbi.nlm.nih.gov/pubmed/16251641), back when the presumed correct amount of Vitamin D was much lower. Now that we know that daily values ought to be much higher (see quote in next section), this seems even more pertinent.
+
 ## How Much Vitamin D?
 
-There are lots of papers on Vitamin D and influenza which suggest it's worth trying at some level. 5,000 IU daily for non-infected people should be easy for everyone to do. One paper, titled [Vitamin D for Influenza](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4463890/) says:
+There are lots of papers on Vitamin D and influenza which suggest it's worth trying at some level because large numbers of people are deficient. 5,000 IU daily for non-infected people should be easy for everyone to do. One paper, titled [Vitamin D for Influenza](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4463890/) says:
 
 > The Institute of Medicine recommendation for adults younger than 70 years of age is 600 IU of vitamin D daily. We are told that this would achieve a level of 50 nmol/L in greater than 97.5% of individuals. Regrettably, a statistical error has resulted in erroneous recommendations by the Institute of Medicine leading to this conclusion and it might actually take 8800 IU of vitamin D to achieve this level in 97.5% of the population. This is a serious public health blunder.
 
@@ -80,7 +88,7 @@ I cannot personally suggest anything beyond "normal" daily amounts, and you shou
 
 ## Conclusion
 
-Vitamin D supplementation for *everyone* might be a good idea. Spring might be optimistic for the northern hemisphere, and somewhat worrisome for the southern hemisphere. The worst that can be said for vitamin D is that supplementation may have no additional benefit if a person is not deficient.
+Vitamin D supplementation for *everyone* might be a good idea. Spring might be optimistic for the northern hemisphere, and somewhat worrisome for the southern hemisphere. From the papers I've read, the worst that can be said for vitamin D is that supplementation may have no additional benefit if a person is not deficient, but since we know mass deficiency is common (and has been called an epidemic on its own in papers), it seems unwise to ignore it.
 
 Getting sun might be an even better idea. Vitamin D is a proxy for sunlight, and sunlight almost certainly has other good effects, like the synthesis of nitric oxide.
 
