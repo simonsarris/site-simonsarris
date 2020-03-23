@@ -81,7 +81,7 @@ const Layout = ({ children }) => {
               <div className="primary-content">
                 <div className="content-inner">
                   <main>{children}</main>
-                  <p style={{ fontSize: "90%" }}>
+                  <p style={{ fontSize: "90%", marginTop: "2em" }}>
                   <a href="https://twitter.com/simonsarris"><span style={{ fontSize: "110%" }} role="img" aria-label="candle">🕯️</span><em>simonsarris</em></a>
                   </p>
                 </div>
