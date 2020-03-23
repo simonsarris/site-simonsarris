@@ -36,3 +36,4 @@ title: "Ode to the Medieval Poets"
 <div>&nbsp;&nbsp;&nbsp;&nbsp;but am forbidden by the knowledge</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;that you would have wrought them so much better.</div>
 
+*W.H. Auden (1907-1973) was a British-American poet*
