@@ -6,6 +6,10 @@ date: "3.16.2020"
 
 ### We should all be supplementing with vitamin D
 
+*originally written March 16*
+
+*update March 27, on March 23rd the former CDC Chief Dr. Tom Frieden posted an op-ed suggesting [Coronavirus infection risk may be reduced by Vitamin D](https://twitter.com/DrTomFrieden/status/1242193974892388354)*
+
 Below is a loose (but I think non-trivial) case for mass vitamin D supplementation. This is something you can do yourself or with your family, today.
 
 Reviewing the data we have so far, a line of questions seems striking: Has the virus hit locales the hardest which have lower than average sunshine? Geriatric patients who *survive*, do they leave the house more, etc? I now suspect that total sunshine hours correlate somewhat to the *lethality* of outcomes in different areas.
