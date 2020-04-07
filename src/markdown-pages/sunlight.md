@@ -10,6 +10,8 @@ date: "3.16.2020"
 
 *update March 27, on March 23rd the former CDC Chief Dr. Tom Frieden posted an op-ed suggesting [Coronavirus infection risk may be reduced by Vitamin D](https://twitter.com/DrTomFrieden/status/1242193974892388354)*
 
+*update on April 7, a review published April 2nd titled [Evidence that Vitamin D Supplementation Could Reduce Risk of Influenza and COVID-19 Infections and Deaths](https://www.mdpi.com/2072-6643/12/4/988). It says, "To reduce the risk of infection, it is recommended that people at risk of influenza and/or COVID-19 consider taking 10,000 IU/d of vitamin D3 for a few weeks to rapidly raise 25(OH)D concentrations, followed by 5000 IU/d."*
+
 Below is a loose (but I think non-trivial) case for mass vitamin D supplementation. This is something you can do yourself or with your family, today.
 
 Reviewing the data we have so far, a line of questions seems striking: Has the virus hit locales the hardest which have lower than average sunshine? Geriatric patients who *survive*, do they leave the house more, etc? I now suspect that total sunshine hours correlate somewhat to the *lethality* of outcomes in different areas.
