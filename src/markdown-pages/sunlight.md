@@ -40,7 +40,7 @@ Thailand
 * Recovered: 35
 * Active: 78
 
-The question here is, why does Malaysia not have a single death yet, with several recoveries, when their outbreak started before Italy? Many of the affected are 40-60 years of age, and doubtless there are far more cases than the confirmed, probably thousands more, yet I have found nothing about overflowing hospitals for these countries.
+The question here: Why does Malaysia not have a single death yet, with several recoveries, when their outbreak started before Italy? Many of the affected are 40-60 years of age, and doubtless there are far more cases than the confirmed, probably thousands more, yet I have found nothing about overflowing hospitals for these countries.
 
 So if the Italy pandemic model is expected to scale to every country, and these countries above probably are not the most organized countries like you could say of SK or Singapore, and have had cases since January, why 1 death between them? Maybe they missed some, maybe many, but it would be hard to miss a death count by *overflowing-hospital* amounts. I'm trying to find a model that fits, given that the data is obviously incomplete in a lot of ways. Malaysia is interesting since the start of their outbreak was 6 days before Italy, with (presumably) thousands of undetected cases.
 
