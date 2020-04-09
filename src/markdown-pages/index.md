@@ -6,6 +6,7 @@ silentTitle: "Home"
 
 *What's new:*
 
+[Designing a New Old Home: Part 2](https://medium.com/@simon.sarris/designing-a-new-old-home-part-2-2a5ea1a1b2b3) (Apr 3 2020, on Medium)
 
 [Questions for States](/questions-for-states) (Jan 27 2020)
 
