@@ -14,7 +14,7 @@ date: "3.16.2020"
 
 *Update April 21: Tweet from [Carl Quintanilla](https://twitter.com/carlquintanilla/status/1252618089973395456) - JPMORGAN: A DHS document says that sunlight "destroys the virus very quickly, within ~2 minutes. This may make sunlight exposure the most important factor to consider for a limited reopening of the economy ... One can think of the virus’ 2-minute life in sunlight as a 'deep cleaning' of outdoor spaces every 2 minutes. ... Working spaces could be rearranged to allow for maximal natural sunlight .." (!)*
 
-Below is a loose (but I think non-trivial) case for mass vitamin D supplementation and getting as much sun as you can. Sunlight almost certainly has other good effects beyond vitamin d, like the synthesis of nitric oxide This is something you can do yourself or with your family, today.
+Below is a loose (but I think non-trivial) case for mass vitamin D supplementation and getting as much sun as you can. Sunlight almost certainly has other good effects beyond vitamin d, like the synthesis of nitric oxide. This is something you can do yourself or with your family, today.
 
 Reviewing the data we have so far, a line of questions seems striking: Has the virus hit locales the hardest which have lower than average sunshine? Geriatric patients who *survive*, do they leave the house more, etc? I now suspect that total sunshine hours correlate somewhat to the *lethality* of outcomes in different areas.
 
