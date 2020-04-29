@@ -9,7 +9,7 @@ date: "3.16.2020"
 *originally written March 16*
 
 
-*Update April 29, new paper:  [Vitamin D Insufficiency is Prevalent in Severe COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.24.20075838v1?fbclid=IwAR3vjBOy03u84I0NqO8DWwOqlityAnui_2FjOypC8N4K-pU7Ve13YhstH6I)
+*Update April 29, new paper:  [Vitamin D Insufficiency is Prevalent in Severe COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.24.20075838v1?fbclid=IwAR3vjBOy03u84I0NqO8DWwOqlityAnui_2FjOypC8N4K-pU7Ve13YhstH6I)*
 
 > *Strikingly, 100% of ICU patients less than 75 years old had Vitamin D Insufficiency*
 
