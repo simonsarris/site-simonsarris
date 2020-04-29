@@ -22,6 +22,8 @@ These are organizations that have digitized a number of high resolution scans. I
 
 [The Art Institute of Chicago](https://www.artic.edu/collection) — A small online collection with both copyrighted works and 50,000 public domain (CC0) works. You can see only public domain works [here](https://www.artic.edu/collection?is_public_domain=1). Their search is nicely set up using URL queries.
 
+[DigitaltMuseum](https://digitaltmuseum.org/) — The common database for Norwegian and Swedish museums and collections. Over 3 million photos, and lots of fine art and architectural drawings. This is full of treasures of Scandinavian life, especially the historical photography. Not all works are in the public domain, and some are quite restrictive. Search is great.
+
 ## Useful but terribly organized
 
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) — The Commons boasts 58,727,714 "freely usable media files" (all types). What's not usable is their organization. Works are either put under an author, or else put into categories and subcategories, which a huge number of such categories missing. It's a huge mess.
