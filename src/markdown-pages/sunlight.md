@@ -2,6 +2,7 @@
 path: "/sunlight"
 title: "Coronavirus: Let There Be Light"
 date: "3.16.2020"
+description: "We should all be supplementing with vitamin D"
 ---
 
 ### We should all be supplementing with vitamin D
