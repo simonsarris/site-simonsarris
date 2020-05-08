@@ -10,7 +10,7 @@ These are organizations that have digitized a number of high resolution scans. I
 
 [New York Public Library Collection](https://digitalcollections.nypl.org/) — Not exactly an art collection, it contains almost a million scans of old drawings, maps, and photographs. Lots of really cool historical stuff. My favorite are the thousands of [restaurant menus, searchable by decade](http://menus.nypl.org/menus) back to the 1800's. It even has airline menus from the 1980's such as [TAP Portugal](http://menus.nypl.org/menu_pages/53824/explore) and the [Air France Concorde](http://menus.nypl.org/menu_pages/44451).
 
-[The British Museum](hhttps://www.britishmuseum.org/collection) — over 2 million well categorized, [searchable](https://research.britishmuseum.org/research/collection_online/search.aspx) records, almost all of which are Creative Commons licensed. They have a page on [search tips](https://research.britishmuseum.org/research/collection_online/collection_search_guide.aspx) which works great when search isn't buggy, like it is right this second.
+[The British Museum](https://www.britishmuseum.org/collection) — over 2 million well categorized, searchable records, almost all of which are Creative Commons licensed. In April of 2020 they greatly upgraded their search capabilities.
 
 [Paris Museums Collection](http://parismuseescollections.paris.fr/en) — Over 300,000 works digitized. Not all items are royalty-free or public domain, but most are. The search is decent, with lots of categories. Lots of folios, manuscripts, and sketches in addition to the usual paintings. Downloading is a little funny, instead of just an image you get a zip with (usually) a very well metadata'd image, a pdf, and a text file. This can be a little annoying if you want 90 paintings to study, but their attention to cataloguing detail is impressive.
 
@@ -19,6 +19,10 @@ These are organizations that have digitized a number of high resolution scans. I
 [Bibliothèque nationale de France](https://gallica.bnf.fr/accueil/en/content/accueil-e) — Almost 6 million works, including lots of medieval manuscripts and old photos (like [this World War 1 collection](https://gallica.bnf.fr/html/und/histoire/premiere-guerre-mondiale)).
 
 [Smithsonian Digital Collection](https://www.si.edu/explore) — 2.8 Million images in the public domain. Lots of images of artifacts. Not very well organized for browsing, unfortunately, but many articles have a lot of metadata. The advanced search is in a different place, [here](http://collections.si.edu/search/).
+
+[The Art Institute of Chicago](https://www.artic.edu/collection) — A small online collection with both copyrighted works and 50,000 public domain (CC0) works. You can see only public domain works [here](https://www.artic.edu/collection?is_public_domain=1). Their search is nicely set up using URL queries.
+
+[DigitaltMuseum](https://digitaltmuseum.org/) — The common database for Norwegian and Swedish museums and collections. Over 3 million photos, and lots of fine art and architectural drawings. This is full of treasures of Scandinavian life, especially the historical photography. Not all works are in the public domain, and some are quite restrictive. Search is great.
 
 ## Useful but terribly organized
 

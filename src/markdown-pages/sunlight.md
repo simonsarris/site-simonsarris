@@ -5,15 +5,26 @@ date: "3.16.2020"
 description: "We should all be supplementing with vitamin D"
 ---
 
-### We should all be supplementing with vitamin D
+### We should all get more sun
 
 *originally written March 16*
 
-*update March 27, on March 23rd the former CDC Chief Dr. Tom Frieden posted an op-ed suggesting [Coronavirus infection risk may be reduced by Vitamin D](https://twitter.com/DrTomFrieden/status/1242193974892388354)*
+
+*Update April 29, new paper:  [Vitamin D Insufficiency is Prevalent in Severe COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.24.20075838v1?fbclid=IwAR3vjBOy03u84I0NqO8DWwOqlityAnui_2FjOypC8N4K-pU7Ve13YhstH6I)*
+
+> *Strikingly, 100% of ICU patients less than 75 years old had Vitamin D Insufficiency*
+
+*Update April 29, published April 20: [Alimentary Pharmacology and Therapeutics: low population mortality from COVID‐19 in countries south of latitude 35 degrees North supports vitamin D as a factor determining severity](https://onlinelibrary.wiley.com/doi/full/10.1111/apt.15777)*
+
+*Update April 21: Tweet from [Carl Quintanilla](https://twitter.com/carlquintanilla/status/1252618089973395456) - JPMORGAN: A DHS document says that sunlight "destroys the virus very quickly, within ~2 minutes. This may make sunlight exposure the most important factor to consider for a limited reopening of the economy ... One can think of the virus’ 2-minute life in sunlight as a 'deep cleaning' of outdoor spaces every 2 minutes. ... Working spaces could be rearranged to allow for maximal natural sunlight .." (!)*
 
 *update on April 7, a review published April 2nd titled [Evidence that Vitamin D Supplementation Could Reduce Risk of Influenza and COVID-19 Infections and Deaths](https://www.mdpi.com/2072-6643/12/4/988). It says, "To reduce the risk of infection, it is recommended that people at risk of influenza and/or COVID-19 consider taking 10,000 IU/d of vitamin D3 for a few weeks to rapidly raise 25(OH)D concentrations, followed by 5000 IU/d."*
 
-Below is a loose (but I think non-trivial) case for mass vitamin D supplementation. This is something you can do yourself or with your family, today.
+*update March 27, on March 23rd the former CDC Chief Dr. Tom Frieden posted an op-ed suggesting [Coronavirus infection risk may be reduced by Vitamin D](https://twitter.com/DrTomFrieden/status/1242193974892388354)*
+
+------
+
+Below is a loose (but I think non-trivial) case for mass vitamin D supplementation and getting as much sun as you can. Sunlight almost certainly has other good effects beyond vitamin d, like the synthesis of nitric oxide. This is something you can do yourself or with your family, today.
 
 Reviewing the data we have so far, a line of questions seems striking: Has the virus hit locales the hardest which have lower than average sunshine? Geriatric patients who *survive*, do they leave the house more, etc? I now suspect that total sunshine hours correlate somewhat to the *lethality* of outcomes in different areas.
 
