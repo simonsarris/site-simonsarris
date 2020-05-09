@@ -2,6 +2,7 @@
 path: "/art-collections"
 title: "High Quality Collections of Digitized Art and Archival Finds"
 date: "1.29.2020"
+description: "Links to museum and other digital art collections"
 ---
 
 These are organizations that have digitized a number of high resolution scans. I am only listing sources that I think are quality, with either creative commons license or public domain licensing on most of the items.

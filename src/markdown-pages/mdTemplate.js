@@ -6,10 +6,11 @@ export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
-  const { frontmatter, html } = markdownRemark
+  const { frontmatter, html } = markdownRemark;
   return (
     <>
-      <SEO title={frontmatter.title || frontmatter.silentTitle} />
+    <SEO title={frontmatter.title || frontmatter.silentTitle}
+        description={frontmatter.description || frontmatter.title + " — simonsarris"} />
     <div className="blog-post-container">
       <div className="blog-post">
         <h2>{frontmatter.title}</h2>
@@ -32,6 +33,7 @@ export const pageQuery = graphql`
         path
         title
         silentTitle
+        description
       }
     }
   }
