@@ -216,6 +216,10 @@ h1 a:hover, a:focus, a:active {
   width: 100%;
   align-items: center;
 }
+/* to give cols some space in between */
+.column:nth-child(n+2) {
+  margin-left: 10px;
+}
 
 .column {
   display: flex;
