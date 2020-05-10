@@ -123,7 +123,8 @@ h1 {
 .content-inner {
   background: #ebd0bd;
   border: 1px solid rgba(66, 66, 66, .1);
-  margin: 210px 0 0 0; /* no text shall rise above simeville */
+  margin: 210px 0 30px 0; /* no text shall rise above simeville */
+  padding: 0 24px;
   text-align: left;
   max-width: 700px;
 }
@@ -132,11 +133,7 @@ h1 {
   line-height: 1.5em;
 }
 
-/* Could be on .blog-post-container instead, but that would only
-  give margin to mdTemplate.js posts */
-main {
-  margin: 0 24px;
-}
+
 
 a {
   text-decoration: none;
