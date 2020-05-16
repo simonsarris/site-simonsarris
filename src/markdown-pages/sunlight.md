@@ -9,6 +9,10 @@ description: "We should all be supplementing with vitamin D"
 
 *originally written March 16*
 
+*Update May 16:* [Vitamin D and Inflammation: Potential Implications for Severity of Covid-19
+](http://imj.ie/vitamin-d-and-inflammation-potential-implications-for-severity-of-covid-19/)
+
+*"Counter-intuitively, lower latitude and typically ‘sunny’ countries such as Spain and Italy (particularly Northern Italy), had low mean concentrations of 25(OH)D and high rates of vitamin D deficiency. These countries have also been experiencing the highest infection and death rates in Europe. The northern latitude countries (Norway, Finland, Sweden) which receive less UVB sunlight than Southern Europe, actually had much higher mean 25(OH)D concentrations, low levels of deficiency and for Norway and Finland, lower infection and death rates. The correlation between 25(OH)D concentration and mortality rate reached conventional significance (P=0.046) by Spearman's Rank Correlation."*
 
 *Update April 29, new paper:  [Vitamin D Insufficiency is Prevalent in Severe COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.24.20075838v1?fbclid=IwAR3vjBOy03u84I0NqO8DWwOqlityAnui_2FjOypC8N4K-pU7Ve13YhstH6I)*
 
@@ -24,7 +28,7 @@ description: "We should all be supplementing with vitamin D"
 
 ------
 
-Below is a loose (but I think non-trivial) case for mass vitamin D supplementation and getting as much sun as you can. Sunlight almost certainly has other good effects beyond vitamin d, like the synthesis of nitric oxide. This is something you can do yourself or with your family, today.
+Below is a loose (but I think non-trivial) case for mass vitamin D supplementation and getting as much sun as you can. Sunlight almost certainly has other good effects beyond vitamin D, like the synthesis of nitric oxide. This is something you can do yourself or with your family, today.
 
 Reviewing the data we have so far, a line of questions seems striking: Has the virus hit locales the hardest which have lower than average sunshine? Geriatric patients who *survive*, do they leave the house more, etc? I now suspect that total sunshine hours correlate somewhat to the *lethality* of outcomes in different areas.
 
