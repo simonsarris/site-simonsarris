@@ -11,7 +11,7 @@ body {
   display: grid;
   background-color: #ebd0bd;
   position: relative;
-  animation: bg-color-fadein 2.2s ease-in 0s 1;
+  /* animation: bg-color-fadein 2.2s ease-in 0s 1; */
   font-family: 'Libre Baskerville', serif;
 }
 
@@ -112,7 +112,7 @@ h1 {
 
 /* main text area */
 .primary-content {
-  animation: primary-fadein 2s ease-in 0s 1;
+  /* animation: primary-fadein 2s ease-in 0s 1; */
 }
 @keyframes primary-fadein {
   0% { opacity: 0; }
