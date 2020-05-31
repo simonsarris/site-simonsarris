@@ -4,7 +4,7 @@ title: "Goals for 2020"
 date: "1.26.2020"
 ---
 
-Some context: In 2018 my wife and I bought 3 former haying fields, about 4.5 acres, and build a home there. [Some pictures](https://twitter.com/simonsarris/status/1183143604925190144). Landscaping was not in the budget, so we're doing it all ourselves, which takes a considerable chunk of our time and these goals.
+Some context: In 2018 my wife and I bought 3 former haying fields, about 4.5 acres, and build a home there, which we moved into early 2019. [Some pictures](https://twitter.com/simonsarris/status/1183143604925190144). Landscaping was not in the budget, so we're doing it all ourselves, which takes a considerable amount of our time and these goals.
 
 Goals are numbered only in the order I thought of them. I will try to update this page as I succeed or fail.
 
