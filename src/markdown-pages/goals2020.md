@@ -4,9 +4,13 @@ title: "Goals for 2020"
 date: "1.26.2020"
 ---
 
+Some context: In 2018 my wife and I bought 3 former haying fields, about 4.5 acres, and build a home there. [Some pictures](https://twitter.com/simonsarris/status/1183143604925190144). Landscaping was not in the budget, so we're doing it all ourselves, which takes a considerable chunk of our time and these goals.
+
 Goals are numbered only in the order I thought of them. I will try to update this page as I succeed or fail.
 
 1. Finish clearing the 3rd field (overtaken by pines) and plant about a half-acre(?) of buckwheat by hand(???) harvest by hand.
+
+*See the [official buckwheat planting thread](https://twitter.com/simonsarris/status/1261093563087097857) for progress*
 
 2. Move garden closer to house, so we can walk outside with bare feet on brick path to reach it easily from kitchen
 
@@ -26,13 +30,19 @@ Goals are numbered only in the order I thought of them. I will try to update thi
 
 5. Build small shed
 
+*May update: decided to build a chicken house instead. It is being sided [right now](https://twitter.com/simonsarris/status/1264256237002264577).*
+
 6. Build wood storage outside
 
-7. Turn the entire front lawn into a crazy field of poppies, probably a mix of shirley, california, and icelandic. The california poppies experient grew really well this year but we'll see how they do year over year.
+7. Turn the entire front lawn into a crazy field of poppies, probably a mix of shirley, california, and icelandic. The california poppies experiment grew really well this year but we'll see how they do year over year.
+
+*May update: Although I planted hundreds of thousands of poppy seeds, either the strange spring weather (very cold then very hot with no rain) or my poor timing has caused only a handful of them to grow. This is very unfortunate, but I will try again next year.*
 
 8. Have a baby
 
 *update: [coming July](https://twitter.com/simonsarris/status/1215265380677058563)*
+
+*May update: [30 weeks](https://twitter.com/simonsarris/status/1257628232205111296)*
 
 9. Design some cottages. It may be many years before we're able to build one, though
 
@@ -49,6 +59,8 @@ Goals are numbered only in the order I thought of them. I will try to update thi
 14. Make a small LLC? And sell some art stuff? I'm not sure what yet, maybe pottery or wood things, just for fun.
 
 15. Leave the US at least once (a goal we have for every year, even if its just driving to Montreal)
+
+*Well the virus will kill this one...*
 
 16. On the 3rd field, start to build a temple to Artemis or Apollo, or the sun. It will almost certainly have to be timber, not stone. Also build a small temple or shrine to Christ. Probably won't be done in 2020.
 
@@ -69,7 +81,11 @@ Goals are numbered only in the order I thought of them. I will try to update thi
 
 18. Start a book of fables, try to self-publish it before the end of 2021? I have only some notes for this so far, I really don't know how long it will take.
 
+*May update: started a collection, but it's small so far.*
+
 19. Learn the basics of timber framing. Maybe use 5. and 6. as practice for this.
+
+*Did some very rudimentary stuff with the chook house.*
 
 20. Furnish another bedroom in the house. We just got our guest bedroom a bed and mattress (don't all visit at once guys) but it needs everything else.
 
@@ -89,5 +105,7 @@ Goals are numbered only in the order I thought of them. I will try to update thi
 23. Make some kind of village builder, simulator, or collaboration game. Something beautiful. Probably in HTML Canvas. Probably (???) in 3d.
 
 24. Re-start the orchard, that was started and semi- (mostly?) destroyed this year. Plant bigger trees or come up with something for deer defense.
+
+*May update: One peach tree is now defended, two new apple trees are in.*
 
 25. Find some way to inspire more people, or make them more optimistic. Or find a way to make people want beautiful things & want to make beauty. This is ofc hazy, but I think I'll have a good sense of whether or not I accomplish it.
