@@ -11,6 +11,8 @@ These are organizations that have digitized a number of high resolution scans. I
 
 [New York Public Library Collection](https://digitalcollections.nypl.org/) — Not exactly an art collection, it contains almost a million scans of old drawings, maps, and photographs. Lots of really cool historical stuff. My favorite are the thousands of [restaurant menus, searchable by decade](http://menus.nypl.org/menus) back to the 1800's. It even has airline menus from the 1980's such as [TAP Portugal](http://menus.nypl.org/menu_pages/53824/explore) and the [Air France Concorde](http://menus.nypl.org/menu_pages/44451).
 
+[The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search) — over 400,000 images of public domain works. High quality organization and keyword search works very well.
+
 [The British Museum](https://www.britishmuseum.org/collection) — over 2 million well categorized, searchable records, almost all of which are Creative Commons licensed. In April of 2020 they greatly upgraded their search capabilities.
 
 [Paris Museums Collection](http://parismuseescollections.paris.fr/en) — Over 300,000 works digitized. Not all items are royalty-free or public domain, but most are. The search is decent, with lots of categories. Lots of folios, manuscripts, and sketches in addition to the usual paintings. Downloading is a little funny, instead of just an image you get a zip with (usually) a very well metadata'd image, a pdf, and a text file. This can be a little annoying if you want 90 paintings to study, but their attention to cataloguing detail is impressive.
@@ -25,7 +27,9 @@ These are organizations that have digitized a number of high resolution scans. I
 
 [DigitaltMuseum](https://digitaltmuseum.org/) — The common database for Norwegian and Swedish museums and collections. Over 3 million photos, and lots of fine art and architectural drawings. This is full of treasures of Scandinavian life, especially the historical photography. Not all works are in the public domain, and some are quite restrictive. Search is great.
 
-## Useful but terribly organized
+## Good but poorly organized
+
+[Artvee](https://artvee.com/) — Images sourced from museums and libraries with open access policies all over the world. 100% public domain works and very curated. Great for browsing, but poor for searching (search seems broken right now, even for keywords). Categories exist like Figurative, Religion, Mythology, Posters, but each work can only have one category.
 
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) — The Commons boasts 58,727,714 "freely usable media files" (all types). What's not usable is their organization. Works are either put under an author, or else put into categories and subcategories, which a huge number of such categories missing. It's a huge mess.
 
@@ -49,6 +53,8 @@ The **major** plus of Google Art is the timeline view to sort works in a categor
 [King George III's Collection of Military Maps](https://militarymaps.rct.uk/the-maps) — Approx 3,000 very cool maps. Inexplicably, no map search! But you can search by date and conflict. Many of the maps contain  beautiful embellishments. None of them are animated with CSS.
 
 [David Rumsey Map Collection](https://www.davidrumsey.com/) — Over 50,000 maps, with digitization dating back to 1996. They are licensed under [Creative Commons Noncommercial license](https://creativecommons.org/licenses/by-nc-sa/3.0/). The site has some very neat [search tools](https://www.davidrumsey.com/view).
+
+[Old Book Illustrations](https://www.oldbookillustrations.com/subjects) — about 4,000 scans of public domain illustrations, mostly from Victorian and French Romantic books.
 
 ## Hall of Shame
 
