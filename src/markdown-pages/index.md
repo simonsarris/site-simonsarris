@@ -6,6 +6,17 @@ silentTitle: "Home"
 
 *What's new:*
 
+In June I have started a [newsletter](https://simonsarris.substack.com/). It will be a newsletter of stromata, a patchwork of anecdotes, fables, tales, advice if you ask for it, photography, questions, sentiment, and ways to get lost in the forest. Some of it will be private. Some will be legible. Not too legible I hope.
+
+
+[Nature](https://simonsarris.substack.com/p/nature) (Jun 10 2020, on the newsletter)
+
+[Incense](/story/incense) (Jun 10 2020)
+
+A story, originally published as the start of my [newsletter](https://simonsarris.substack.com/p/dear-friends).
+
+In May 2020 I have been updating my list of high quality [art resources](/art-collections).
+
 [Designing a New Old Home: Part 2](https://medium.com/@simon.sarris/designing-a-new-old-home-part-2-2a5ea1a1b2b3) (Apr 3 2020, on Medium)
 
 [Questions for States](/questions-for-states) (Jan 27 2020)
