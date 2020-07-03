@@ -84,6 +84,9 @@ const Layout = ({ children }) => {
                   <p style={{ fontSize: "90%", marginTop: "2em" }}>
                   <a href="https://twitter.com/simonsarris"><span style={{ fontSize: "110%" }} role="img" aria-label="candle">🕯️</span><em>simonsarris</em></a>
                   </p>
+                  <p style={{ fontSize: "90%", marginTop: "2em" }}>
+                  <a href="https://simonsarris.substack.com/"><span style={{ fontSize: "110%" }} role="img" aria-label="postal horn">📯</span><em>subscribe to my newsletter of anecdotes, tales, and ways to get lost in the forest</em></a>
+                  </p>
                 </div>
               </div>
 
