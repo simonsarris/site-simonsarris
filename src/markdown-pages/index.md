@@ -6,14 +6,19 @@ silentTitle: "Home"
 
 *What's new:*
 
-In June I have started a [newsletter](https://simonsarris.substack.com/). It will be a newsletter of stromata, a patchwork of anecdotes, fables, tales, advice if you ask for it, photography, questions, sentiment, and ways to get lost in the forest. Some of it will be private. Some will be legible. Not too legible I hope.
+📯 In June I have started a [newsletter](https://simonsarris.substack.com/). It shall be a stromata,  a patchwork of anecdotes, fables, tales, advice if you ask for it, photography, questions, sentiment, and ways to get lost in the forest. Some of it will be private. Some will be legible. Not too legible I hope.
 
+[The Proud Fox](https://simonsarris.substack.com/p/the-proud-fox) (Jul 7 2020, on the newsletter), Another tale
+
+[Photography Workflow](https://simonsarris.substack.com/p/photography-workflow) (Jul 5 2020, on the newsletter), Where I detail how I edit photos, and recommendations for new photographers
+
+[On the Usefulness of Photography](https://simonsarris.substack.com/p/on-the-usefulness-of-photography) (Jun 30 2020, on the newsletter), *Photography is a magical art and an underrated tool: Combined with modern photo storage it is the biggest boost to memory since the invention of writing. I have for you here some notes on it’s usefulness and the art.*
+
+[The Young Servant](https://simonsarris.substack.com/p/the-young-servant) (Jun 23 2020, on the newsletter) A short tale
 
 [Nature](https://simonsarris.substack.com/p/nature) (Jun 10 2020, on the newsletter)
 
-[Incense](/story/incense) (Jun 10 2020)
-
-A story, originally published as the start of my [newsletter](https://simonsarris.substack.com/p/dear-friends).
+[Incense](/story/incense) (Jun 10 2020), A story, originally published as the start of my [newsletter](https://simonsarris.substack.com/p/dear-friends).
 
 In May 2020 I have been updating my list of high quality [art resources](/art-collections).
 
