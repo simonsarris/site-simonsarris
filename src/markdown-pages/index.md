@@ -6,7 +6,7 @@ silentTitle: "Home"
 
 *What's new:*
 
-📯 In June I have started a [newsletter](https://simonsarris.substack.com/). It shall be a stromata,  a patchwork of anecdotes, fables, tales, advice if you ask for it, photography, questions, sentiment, and ways to get lost in the forest. Some of it will be private. Some will be legible. Not too legible I hope.
+📯 In June I have started a [newsletter](https://simonsarris.substack.com/). It shall be a stromata of anecdotes, fables, tales, advice if you ask for it, photography, questions, sentiment, and ways to get lost in the forest. Some of it will be private. Some will be legible. Not too legible I hope.
 
 [The Proud Fox](https://simonsarris.substack.com/p/the-proud-fox) (Jul 7 2020, on the newsletter), Another tale
 
