@@ -2,7 +2,7 @@
 path: "/commentdammerung"
 title: "Commentdämmerung"
 date: "7.17.2020"
-description: "Commentdämmerung"
+description: "GPT-3 imitating human text: We aren't pulling the mask off the machine to reveal a genius wizard, we're pulling the mask off each other to reveal the bar is low."
 ---
 
 GPT-3 (OpenAI's text generation model) imitating human text: We aren't pulling the mask off the machine to reveal a genius wizard, we're pulling the mask off each other to reveal the bar is low.
