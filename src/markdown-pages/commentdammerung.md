@@ -5,7 +5,7 @@ date: "7.17.2020"
 description: "Commentdämmerung"
 ---
 
-GPT-3 imitating human text: We aren't pulling the mask off the machine to reveal a genius wizard, we're pulling the mask off each other to reveal the bar is low.
+GPT-3 (OpenAI's text generation model) imitating human text: We aren't pulling the mask off the machine to reveal a genius wizard, we're pulling the mask off each other to reveal the bar is low.
 
 It's a little spooky for another reason. In places where very average people read very average comments all day long (reddit, etc) I think we can expect a Commentdämmerung moment in the near future.
 
