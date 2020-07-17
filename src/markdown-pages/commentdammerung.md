@@ -1,7 +1,7 @@
 ---
 path: "/commentdammerung"
 title: "Commentdämmerung"
-date: "1.29.2020"
+date: "7.17.2020"
 description: "Commentdämmerung"
 ---
 
