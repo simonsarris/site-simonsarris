@@ -53,7 +53,7 @@ function SEO({ description, lang, meta, title, cardImage }) {
         },
         {
           property: `og:image`,
-          content: cardImage || `/images/background.png`,
+          content: cardImage || `https://simonsarris.com/images/background.png`,
         },
         {
           name: `twitter:card`,
