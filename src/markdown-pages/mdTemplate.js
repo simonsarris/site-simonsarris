@@ -10,7 +10,9 @@ export default function Template({
   return (
     <>
     <SEO title={frontmatter.title || frontmatter.silentTitle}
-        description={frontmatter.description || frontmatter.title + " — simonsarris"} />
+         description={frontmatter.description || frontmatter.title + " — simonsarris"}
+         cardImage={frontmatter.cardImage}
+        />
     <div className="blog-post-container">
       <div className="blog-post">
         <h2>{frontmatter.title}</h2>
