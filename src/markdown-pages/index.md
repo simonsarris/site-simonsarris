@@ -8,6 +8,9 @@ silentTitle: "Home"
 
 📯 In June I have started a [newsletter](https://simonsarris.substack.com/). It shall be a stromata of anecdotes, fables, tales, advice if you ask for it, photography, questions, sentiment, and ways to get lost in the forest. Some of it will be private. Some will be legible. Not too legible I hope.
 
+[In Praise of the Gods: What the Rationalistic World Forgot](https://simonsarris.substack.com/p/in-praise-of-the-gods) (Jul 20 2020), *the stupor of rationality • stories, building intuition • alchemy, building process • religion, building wonder* — I explain my distaste for rationalism, how to build your intuition, why I call myself an alchemist, and how I think about religion.
+
+
 [The Proud Fox](https://simonsarris.substack.com/p/the-proud-fox) (Jul 7 2020, on the newsletter), Another tale
 
 [Photography Workflow](https://simonsarris.substack.com/p/photography-workflow) (Jul 5 2020, on the newsletter), Where I detail how I edit photos, and recommendations for new photographers
