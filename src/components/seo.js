@@ -25,8 +25,8 @@ function SEO({ description, lang, meta, title, cardImage }) {
     `
   )
 
-  const metaDescription = description || site.siteMetadata.description
-
+  const metaDescription = description || site.siteMetadata.description;
+  const metaImage = cardImage || `https://simonsarris.com/images/background.png`;
   return (
     <Helmet
       htmlAttributes={{
@@ -53,8 +53,8 @@ function SEO({ description, lang, meta, title, cardImage }) {
         },
         {
           property: `og:image`,
-          content: cardImage || `https://simonsarris.com/images/background.png`,
-        },
+          content: metaImage,
+        },      
         {
           name: `twitter:card`,
           content: `summary`,
@@ -71,6 +71,10 @@ function SEO({ description, lang, meta, title, cardImage }) {
           name: `twitter:description`,
           content: metaDescription,
         },
+        {
+          property: `twitter:image`,
+          content: metaImage,
+        },  
       ].concat(meta)}
     />
   )
