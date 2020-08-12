@@ -52,7 +52,7 @@ const Layout = ({ children }) => {
           <img alt="" className="bg-town" id="town0" src={town0} />
           <img alt="" className="bg-fore" src={foreground} />
           {/*  HA HA! BIRDS!
-              Bet you thought they were animated with meowzerscript
+              Bet you thought they were animated with javascripte
               but nay, it is CSS animation twice folded upon themselves.
               See layout.css for a vague explanation  */}
           <div className="BIRD BIRD0"></div>
@@ -69,14 +69,6 @@ const Layout = ({ children }) => {
               <Link to="/photo/">Photo</Link>
               <Link to="/writing/">Writing</Link>
               <Link to="/about/">About</Link>
-              {/* <input id="photo" className="toggle" type="radio" name="menuradio">
-                <label for="photo" className="menu-button photo-toggle">photo</label>
-                <input id="writing" className="toggle" type="radio" name="menuradio">
-                <label for="writing" className="menu-button writing-toggle">writing</label>
-                <input id="primary" className="toggle" type="radio" name="menuradio">
-                <label for="primary" className="menu-button primary-toggle">work on</label>
-                <input id="about" className="toggle" type="radio" name="menuradio">
-                <label for="about" className="menu-button about-toggle">about</label> */}
             </div>
               <div className="primary-content">
                 <div className="content-inner">
