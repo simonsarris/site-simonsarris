@@ -10,7 +10,7 @@ Goals are numbered only in the order I thought of them. I will try to update thi
 
 1. Finish clearing the 3rd field (overtaken by pines) and plant about a half-acre(?) of buckwheat by hand(???) harvest by hand.
 
-*See the [official buckwheat planting thread](https://twitter.com/simonsarris/status/1261093563087097857) for progress*
+*Update august 2020: This failed. See the [official buckwheat planting thread](https://twitter.com/simonsarris/status/1261093563087097857) for details*
 
 2. Move garden closer to house, so we can walk outside with bare feet on brick path to reach it easily from kitchen
 
@@ -19,6 +19,8 @@ Goals are numbered only in the order I thought of them. I will try to update thi
 <div style="max-width: 500px; margin: auto;">
 <img src="../images/posts/goals2020/fields.jpg" alt="Fields" title="Fields" />
 <div>
+
+*Update: We created 4 new beds next to the house and used both gardens this year. We will probably add 4 more beds next year to this new upper garden*
 
 3. Pay for a friend with a tractor to build a retaining wall out of granite (already acquired) behind house. Build nice patio. It will look like pictured. Just kidding (unless...?)
 
@@ -44,6 +46,8 @@ Goals are numbered only in the order I thought of them. I will try to update thi
 
 *May update: [30 weeks](https://twitter.com/simonsarris/status/1257628232205111296)*
 
+*July 21 update: [Luca Marin Sarris](https://twitter.com/simonsarris/status/1286769485375066113)*
+
 9. Design some cottages. It may be many years before we're able to build one, though
 
 10. Design a workshop, build it if we have funds? Something really simple, enough to hold woodworking equip, a pottery wheel, and small propane forge hooked up to our 500gal tank?
@@ -52,7 +56,11 @@ Goals are numbered only in the order I thought of them. I will try to update thi
 
 *so far: [Designing a New Old Home: Part 1](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41) Jan 16 2019*
 
+*Update: I have started [newsletter](https://simonsarris.substack.com) in the summer, surprisingly*
+
 12. Host more guests than last year, cook for more people. We both love cooking for other people, but have kept our heads down a lot in 2019.
+
+*Update: so there's this virus...*
 
 13. Make a few more "for fun" websites
 
@@ -79,15 +87,21 @@ Goals are numbered only in the order I thought of them. I will try to update thi
   </div>
 </div>
 
+*June update: I sunk a tractor near here and made it somewhat uglier :D*
+
 18. Start a book of fables, try to self-publish it before the end of 2021? I have only some notes for this so far, I really don't know how long it will take.
 
 *May update: started a collection, but it's small so far.*
 
+*August update: Through my [newsletter](https://simonsarris.substack.com) I now have several, which I will start the collection nicely.*
+
 19. Learn the basics of timber framing. Maybe use 5. and 6. as practice for this.
 
-*Did some very rudimentary stuff with the chook house.*
+*Did some very rudimentary stuff with the chook house. August: Practicing some techniques for the wood storage, too.*
 
 20. Furnish another bedroom in the house. We just got our guest bedroom a bed and mattress (don't all visit at once guys) but it needs everything else.
+
+*August update: this is 30% complete*
 
 21. Build shelves for the kitchen, just one level, right above the tile
 
