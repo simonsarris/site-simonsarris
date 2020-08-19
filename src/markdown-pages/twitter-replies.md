@@ -11,7 +11,7 @@ For most of history one talked to more people, sometimes in a day, than one woul
 
 The internet has started to reverse a trend that began with the printing press. After four hundred years of declining public spheres, Twitter (among others) brought us a new Agora. I think the value of this change is hard to comprehend, because what was once so common before the printing press has been gone for so long.
 
-I understand why some people welcome the feature. When it rolled out in May, plenty of people gave compelling reasons to want to reduce the public nuisance (and harassment) burden. But we are witnessing the very slow closing of a large door. I worry that this isn't the first new feature modulating replies and it won't be the last.
+When disable-replies rolled out in May, plenty of people gave compelling reasons to want to reduce the public nuisance (and harassment) burden. But we are witnessing the very slow closing of a large door. This isn't the first new feature modulating replies, and it probably won't be the last.
 
 I hope Twitter carefully considers what they are doing, but I think it will be easy to pass over this quickly. Less nuisance, happy celebrities, maybe engagement even stays about the same. What we lose is more subtle.
 How many Twitter mutuals do I follow because of some comment of theirs on a public voice? How many great people you follow have you found this way? Isn't it most of them?
