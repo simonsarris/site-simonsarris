@@ -1,5 +1,5 @@
 ---
-path: "/story/incense"
+path: "/stories/incense"
 title: "Incense"
 ---
 
