@@ -7,4 +7,4 @@ This is a list of stories, most of which were originally published on my newslet
 
 [Incense](/stories/incense)
 
-[The Sun's Marriage](/story/suns-marriage)
+[The Sun's Marriage](/stories/suns-marriage)

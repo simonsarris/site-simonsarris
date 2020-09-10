@@ -66,9 +66,9 @@ const Layout = ({ children }) => {
             }} ><Link to="/">Simon Sarris</Link></h1>
 
             <div className="main-menu">
-              <Link to="/photo/">Photo</Link>
-              <Link to="/writing/">Writing</Link>
-              <Link to="/about/">About</Link>
+              <Link to="/photo">Photo</Link>
+              <Link to="/writing">Writing</Link>
+              <Link to="/about">About</Link>
             </div>
               <div className="primary-content">
                 <div className="content-inner">
