@@ -3,7 +3,7 @@ path: "/stories"
 title: "Stories"
 ---
 
-This is a list of stories, most of which were originally published on my newsletter. This list may not contain all stories.
+This is an incomplete list of stories, most of which were originally published on my [newsletter](https://simonsarris.substack.com).
 
 [Incense](/stories/incense)
 
