@@ -1,6 +1,7 @@
 ---
 path: "/work-of-local-culture"
 title: "The Work of Local Culture"
+description: "An essay by Wendell Berry"
 ---
 
 _An essay by **Wendell Berry**_
