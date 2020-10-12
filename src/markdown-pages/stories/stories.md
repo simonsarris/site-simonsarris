@@ -3,7 +3,7 @@ path: "/stories"
 title: "Stories"
 ---
 
-This is a (probably incomplete) list of stories, most of which were originally published on my [newsletter](https://simonsarris.substack.com). If the newsletter post only contained a story, it might just be a link to that post.
+Here is a (probably incomplete) list of stories I have told, most of which were originally published on my [newsletter](https://simonsarris.substack.com). If the newsletter post only contained the story, I may link to that post instead.
 
 
 [The Oak Tree](/stories/oak-tree) - August 25th, 2020
