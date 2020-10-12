@@ -9,3 +9,4 @@ An old tale: Once there grew a giant oak tree, so large that it took hours just 
 
 Now what could this story mean?
 
+*[See all stories](/stories/)*

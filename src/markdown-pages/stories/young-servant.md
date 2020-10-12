@@ -43,3 +43,4 @@ One day the servant laid to rest under a tree, when suddenly a golden apple fell
 
 The servant, full of joy, took the golden apple to the King’s daughter. The princess was intrigued, and so they split the apple in two and ate it together, which made their hearts surge with love and tenderness for each other. The King announced a wedding the very next day. All the people rejoiced at the celebration, and they lived in happiness until a great age.
 
+*[See all stories](/stories/)*

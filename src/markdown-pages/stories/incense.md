@@ -19,3 +19,4 @@ The monk, who could scarcely see his visitor, pushed the incense toward him. Aft
 
 Upon hearing the thanks the old monk at last recollected the voice of his former disciple. The monk wept with emotion that he might have spoken with him one last time.
 
+*[See all stories](/stories/)*

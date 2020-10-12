@@ -1,6 +1,7 @@
 ---
 path: "/stories"
 title: "Stories"
+description: "Stories I have told"
 ---
 
 Here is a (probably incomplete) list of stories I have told, most of which were originally published on my [newsletter](https://simonsarris.substack.com). If the newsletter post only contained the story, I may link to that post instead.
