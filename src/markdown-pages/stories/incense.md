@@ -3,6 +3,8 @@ path: "/stories/incense"
 title: "Incense"
 ---
 
+*From my newsletter post, [Dear Friends](https://simonsarris.substack.com/p/dear-friends) on June 10, 2020.*
+
 There is a tale,
 
 Once an old monk lived in a simple hillside temple, the kind frequented by weary travelers. When the nights were clear his chanting resounded in the village below, and all who heard it were struck with awe.
@@ -17,4 +19,3 @@ The monk, who could scarcely see his visitor, pushed the incense toward him. Aft
 
 Upon hearing the thanks the old monk at last recollected the voice of his former disciple. The monk wept with emotion that he might have spoken with him one last time.
 
-*From my [newsletter](https://simonsarris.substack.com/p/dear-friends).*

@@ -3,6 +3,8 @@ path: "/stories/young-servant"
 title: "The Young Servant"
 ---
 
+*From my newseltter post, [The Young Servant](https://simonsarris.substack.com/p/the-young-servant) on June 23, 2020.*
+
 Long ago there lived a king who was famed for his grasp of wisdom and gossip, seeming to know all manner of secret things and far-away news before anyone else in the kingdom. He also had a strange habit: After lunch, when guests were gone and plates were cleared, his most trusted servant would bring him a final dish. The dish was always covered, so even the servant did not know what the King would eat.
 
 Alas, the thought of this peculiar meal became too much for the young servant. One day while returning the dish to the cellar, the youth was overcome with curiosity, and decided instead to bring it to his room. Carefully he lifted the lid and found on the plate a small white snake. The servant could not resist taking a small bite. As soon as he ate a piece, he heard little voices outside his window. Quickly he closed the dish and went to see who was outside, but no one was in sight. As he stood by the window and continued listening, he realized it was the sparrows themselves speaking, as if in a tongue he understood, about all manner of things that happened in the woods and the world that day.
@@ -41,4 +43,3 @@ One day the servant laid to rest under a tree, when suddenly a golden apple fell
 
 The servant, full of joy, took the golden apple to the King’s daughter. The princess was intrigued, and so they split the apple in two and ate it together, which made their hearts surge with love and tenderness for each other. The King announced a wedding the very next day. All the people rejoiced at the celebration, and they lived in happiness until a great age.
 
-*From my [newsletter](https://simonsarris.substack.com).*
