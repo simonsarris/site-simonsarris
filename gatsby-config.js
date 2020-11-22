@@ -44,13 +44,14 @@ module.exports = {
     },
     //`gatsby-transformer-remark`,
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          {
-            family: `Libre Baskerville`,
-            variants: [`400`, `700`]
-          },
+          `Libre Baskerville\:400,700`
+          // {
+          //   family: `Libre Baskerville`,
+          //   variants: [`400`, `700`]
+          // },
         ],
       },
     },
