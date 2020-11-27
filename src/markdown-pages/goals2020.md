@@ -86,7 +86,7 @@ Goals are numbered only in the order I thought of them. I will try to update thi
 
 14. Make a small LLC? And sell some art stuff? I'm not sure what yet, maybe pottery or wood things, just for fun.
 
-❌
+❌ *not started*
 
 15. Leave the US at least once (a goal we have for every year, even if its just driving to Montreal)
 
@@ -111,7 +111,7 @@ Goals are numbered only in the order I thought of them. I will try to update thi
   </div>
 </div>
 
-❌ *June update: I sunk a tractor near here and made it somewhat uglier :D*
+❌? *June update: I sunk a tractor near here and made it somewhat uglier :D*
 
 ✔️? *Fall update: The area has been considerably cleaned up now, mostly raw dirt. The duck pond itself is still fairly plain.*
 
