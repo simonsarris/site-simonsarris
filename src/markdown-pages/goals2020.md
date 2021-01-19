@@ -6,7 +6,7 @@ date: "1.26.2020 & 11.26.2020"
 
 ## *This has been updated with pass/fail*
 
-Some context: In 2018 my wife and I bought 3 former haying fields, about 4.5 acres, and build a home there, which we moved into early 2019. [Some pictures](https://twitter.com/simonsarris/status/1183143604925190144). Landscaping was not in the budget, so we're doing it all ourselves, which takes a considerable amount of our time and these goals.
+Some context: In 2018 my wife and I bought 3 former haying fields, about 4.5 acres, and built a home there, which we moved into early 2019. [Some pictures](https://twitter.com/simonsarris/status/1183143604925190144). Landscaping was not in the budget, so we're doing it all ourselves, which takes a considerable amount of our time and these goals.
 
 Goals are numbered only in the order I thought of them. I will try to update this page as I succeed or fail.
 
@@ -155,4 +155,4 @@ Goals are numbered only in the order I thought of them. I will try to update thi
 
 25. Find some way to inspire more people, or make them more optimistic. Or find a way to make people want beautiful things & want to make beauty. This is ofc hazy, but I think I'll have a good sense of whether or not I accomplish it.
 
-✔️ *I think I understand this now. Several people have told me to ✔️  this goal but I think most of the work here is yet to come.* 
+✔️ *I think I understand this now. Several people have told me to ✔️  this goal but I think most of the work here is yet to come.*
