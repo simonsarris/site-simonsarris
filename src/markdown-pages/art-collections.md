@@ -27,6 +27,8 @@ These are organizations that have digitized a number of high resolution scans. I
 
 [DigitaltMuseum](https://digitaltmuseum.org/) — The common database for Norwegian and Swedish museums and collections. Over 3 million photos, and lots of fine art and architectural drawings. This is full of treasures of Scandinavian life, especially the historical photography. Not all works are in the public domain, and some are quite restrictive. Search is great.
 
+[Rijksmuseum (Rijksstudio)](https://www.rijksmuseum.nl/en/search) — 700K artworks digitized, only ~9000 of which are actually available for viewing in the museum. You have to create an account to download any images, but sign-up is easy and the quality is very high.
+
 ## Good but poorly organized
 
 [Artvee](https://artvee.com/) — Images sourced from museums and libraries with open access policies all over the world. 100% public domain works and very curated. Great for browsing, but poor for searching (search seems broken right now, even for keywords). Categories exist like Figurative, Religion, Mythology, Posters, but each work can only have one category.
