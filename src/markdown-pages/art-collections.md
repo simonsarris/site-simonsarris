@@ -15,7 +15,7 @@ These are organizations that have digitized a number of high resolution scans. I
 
 [The British Museum](https://www.britishmuseum.org/collection) — over 2 million well categorized, searchable records, almost all of which are Creative Commons licensed. In April of 2020 they greatly upgraded their search capabilities.
 
-[Louvre Collection](https://collections.louvre.fr/en/) — more than 480,000 works in the Musée du Louvre and Musée National Eugène-Delacroix, with digitization ongoing.
+[Louvre Collection](https://collections.louvre.fr/en/) — more than 480,000 works in the Musée du Louvre and Musée National Eugène-Delacroix, with digitization ongoing. Categorization is very good, but make sure your text search is in French.
 
 [Paris Museums Collection](http://parismuseescollections.paris.fr/en) — Over 300,000 works digitized. Not all items are royalty-free or public domain, but most are. The search is decent, with lots of categories. Lots of folios, manuscripts, and sketches in addition to the usual paintings. Downloading is a little funny, instead of just an image you get a zip with (usually) a very well metadata'd image, a pdf, and a text file. This can be a little annoying if you want 90 paintings to study, but their attention to cataloguing detail is impressive.
 
