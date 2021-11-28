@@ -1,8 +1,10 @@
 ---
 path: "/goals2021"
-title: "Goals for 2021"
-date: "1.18.2021"
+title: "Goals for 2021 (updated)"
+date: "1.18.2021 & 11.27.2021"
 ---
+
+## *This has been updated with pass/fail*
 
 Some context: Me and my wife bought some former haying fields overrun with pines and [built a house](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41) there. We have been doing all the landscaping ourselves, which will take years, and now we are starting to build out a small farm.
 
