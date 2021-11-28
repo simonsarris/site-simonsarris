@@ -22,7 +22,7 @@ I hope to keep the goals for 2021 more focused. These are roughly in order of ab
 
 3. Build beautiful field of flowers out front (already [started](https://twitter.com/simonsarris/status/1330632603989389319) this).
 
-❌/✔️ *This "worked" but scarcely. I had tilled the front to break up competing plants, but the spring drought (most likely) killed off most flowers except the bachelor's buttons, and I failed to water enough to make up for the drought. You can see some photos of what it looked like [here](https://twitter.com/simonsarris/status/1464402137333575684)*
+❌/✔️ *This "worked" but scarcely. I had tilled the front to break up competing plants, but the spring drought (most likely) killed off most flowers except the bachelor's buttons, and I failed to water enough to make up for the drought. You can see some photos of what it looked like [here](https://twitter.com/simonsarris/status/1464402137333575684). Although this is somewhat costly, I am willing to try it again.*
 
 4. Build a shrine to Saint Marinus.
 
