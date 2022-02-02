@@ -10,7 +10,12 @@ silentTitle: "Home"
 
 Some highlights:
 
-[In Praise of the Gods: What the Rationalistic World Forgot](https://simonsarris.substack.com/p/in-praise-of-the-gods) (Jul 20 2020), *the stupor of rationality • stories, building intuition • alchemy, building process • religion, building wonder* — I explain my distaste for rationalism, how to build your intuition, why I call myself an alchemist, and how I think about religion.
+[In Praise of the Gods: What the Rationalistic World Forgot](https://simonsarris.substack.com/p/in-praise-of-the-gods) (Jul 20 2020), *the stupor of rationality • stories, building intuition • alchemy, building process • religion, building wonder* — Why rationalism is overdone, how to build your intuition, why I call myself an alchemist, and how I think about religion.
+
+[Long Distance Thinking](https://simonsarris.substack.com/p/long-distance-thinking) (Jan 13 2022), True things are disclosed slowly.
+
+[The Most Precious Resource is Agency](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency) (June 30 2021), The world is a very malleable place.
+
 
 [Are We Still Thinking?](https://simonsarris.substack.com/p/are-we-still-thinking) (Jan 18 2021)
 
