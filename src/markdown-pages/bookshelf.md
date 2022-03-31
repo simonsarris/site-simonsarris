@@ -70,7 +70,3 @@ For my discussion of these books you should read my series of articles: [Designi
 
 [The Measure of Her Powers: An M. F. K. Fisher Reader](https://amzn.to/33ZLoIK) - MFK Fisher is perhaps the greatest American food writer of all time. She has the perfect evocative imagination needed to speak about food. The audiobook is very good.
 
-
-Fooled by Randomness by Nassim  Taleb
-
-
