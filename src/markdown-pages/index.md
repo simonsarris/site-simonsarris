@@ -17,7 +17,8 @@ Some highlights:
 [The Most Precious Resource is Agency](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency) (June 30 2021), The world is a very malleable place.
 
 
-[Are We Still Thinking?](https://simonsarris.substack.com/p/are-we-still-thinking) (Jan 18 2021)
+[Are We Still Thinking?](https://simonsarris.substack.com/p/are-we-still-thinking) (Jan 18 2021), We lived in a state of dialogue for millennia, almost all knowledge was two-way communication. Even with books, every person talked to more people, sometimes in a single day, than they had ever read. Then between the printing press and radio we switched to one-way communication as the norm, and now it's the opposite. The consequences of this are not fully appreciated.
+
 
 [That Which is Unique, Breaks](https://simonsarris.substack.com/p/that-which-is-unique-breaks) (Dec 15, 2020)
 
@@ -54,10 +55,6 @@ The start of a series on designing and building our home, with advice and consid
 [Work on these (other) things](/work-on) (Jan 9 2020)
 
 
-We lived in a state of dialogue for millennia, almost all knowledge was two-way communication.
-Even with books, every person talked to more people, sometimes in a single day, than they had ever read.
-Then between the printing press and radio we switched to one-way communication as the norm,
-and now it's the opposite. The consequences of this are not fully appreciated.
 
 
 
