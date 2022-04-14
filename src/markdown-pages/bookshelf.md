@@ -5,15 +5,13 @@ title: "Bookshelf"
 
 # Bookshelf
 
-This is a starting point for book recommendations that I think probably have the *broadest* appeal. However in general I think recommendations are more valuable if they are more personal, and for that matter a recommendation of 2 books is worth more than a recommendation of 100. So I will try to keep this list as small as possible, which I hope does not make it so mainstream that it is uninteresting.
-
-If I say a book is underrated or someone's best work, this is of course my opinion and not necessarily general opinion.
+This is a starting point for book recommendations that I think probably have the *broadest* appeal. In general, I think recommendations are more valuable if they are more personal, and for that matter a recommendation of 2 books is worth more than a recommendation of 100. So I will try to keep this list as small as possible, which I hope does not make it so mainstream that it is uninteresting.
 
 As always, the most valuable book is the one you read twice.
 
 ## Literature
 
-By far the most underrated category of books. Literature is the most pleasurable and the most useful of all writing, it will teach you more about human nature than any textbook. It is also the most difficult to make general recommendations, so I will only mention some favorite authors and a few of their works.
+Literature is the most pleasurable and the most useful of all writing, it will teach you more about human nature than any textbook. It is also the most difficult to make general recommendations, so I will only mention some favorite authors and a few of their works.
 
 Bohumil Hrabal - [I Served the King of England](https://amzn.to/39p9eB6) had a profound impact on me when I first read it. [Too Loud a Solitude](https://amzn.to/3nWKRyW) (which apparently on amazon I have purchased four times) and [Closely Watched Trains](https://amzn.to/2JmKYom) are also excellent short works.
 
@@ -36,23 +34,23 @@ The first three books taken together clear up some considerable blind spots in t
 
 [The Origins of Political Order: From Prehuman Times to the French Revolution](https://amzn.to/3mi4QaV) by Francis Fukuyama - Maybe one of the most underrated books of the last ten years.
 
-[An American Childhood](https://amzn.to/3q8uMIj) by Annie Dillard is the retelling of her own childhood growing up in Pittsburgh in the 1950s. Dillard is an excellent writer with lots of amusing anecdotes, but the book tells a second story as a history book. Lots of what gets mentioned is totally absent from today's world, and should give us pause.
+[An American Childhood](https://amzn.to/3q8uMIj) by Annie Dillard is the retelling of her own childhood growing up in Pittsburgh in the 1950s. Dillard is an excellent writer with lots of amusing anecdotes, but the book tells a second story as a history book. Lots of what gets mentioned is absent from today's world, in a way that should give us pause.
 
 [Sexual Personae](https://amzn.to/3lcv1yd) - Despite the title it might be better thought of as an opinionated overview of the history of Western art. Not for everyone, but quite fun.
 
 [The Merchant of Prato: Francesco di Marco Datini, 1335-1410](https://amzn.to/3o2KQth) by Iris Origo - Read to better understand the extent of trade and globalization (which it partly changed my view on).
 
-[Reflections on the Revolution in France](https://amzn.to/3oySEmS) by Edmund Burke - Worth reading for a number of reasons, the simplest being that few people have read anything about the French Revolution at all, never mind someone aghast about it.
+[Reflections on the Revolution in France](https://amzn.to/3oySEmS) by Edmund Burke - Worth reading for a number of reasons, the simplest being that few people have read anything about the French Revolution at all.
 
 ## Biographies
 
 In some sense these are history, and they often have more detail than most history books.
 
-[Napoleon: A Life](https://amzn.to/2W5xCQp) by Andrew Roberts - A reminder that all the brave people are long dead.
+[Napoleon: A Life](https://amzn.to/2W5xCQp) by Andrew Roberts - All the brave people are long dead.
 
-[Walt Disney: The Triumph of the American Imagination](https://amzn.to/3gD3VQ4) by Neal Gabler - A reminder that most companies would never accept someone like Disney as CEO today, especially the art he considered worth spending money on.
+[Walt Disney: The Triumph of the American Imagination](https://amzn.to/3gD3VQ4) by Neal Gabler - Mst companies would never accept someone like Disney as CEO today, for a number of reasons. It is difficult to appreciate Disney's differences in summary, so the biography is well worth it.
 
-[The Pigeon Tunnel: Stories from My Life](https://amzn.to/2LfMvxp) by John le Carré - One of the best audiobooks, as its read by the author, who has all the emotion (and accents) as he recounts his life stories. It is probably more worthwhile if you've read a few of his other books, at a minimum read The Spy Who Came in From The Cold and watch Tinker Tailor Soldier Spy.
+[The Pigeon Tunnel: Stories from My Life](https://amzn.to/2LfMvxp) by John le Carré - One of the best audiobook performances, as it is read by the author, who has all the emotion (and accents) as he recounts his life stories. It is probably more worthwhile if you've read a few of his other books, at a minimum read *The Spy Who Came in From The Cold* and watch *Tinker Tailor Soldier Spy*.
 
 ## Design
 
