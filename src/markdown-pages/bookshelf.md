@@ -3,7 +3,6 @@ path: "/bookshelf"
 title: "Bookshelf"
 ---
 
-# Bookshelf
 
 This is a starting point for book recommendations that I think probably have the *broadest* appeal. In general, I think recommendations are more valuable if they are more personal, and for that matter a recommendation of 2 books is worth more than a recommendation of 100. So I will try to keep this list as small as possible, which I hope does not make it so mainstream that it is uninteresting.
 
