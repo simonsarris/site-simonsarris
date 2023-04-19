@@ -236,6 +236,8 @@ thinking further, he would go home to his room. He would lie in the bed and
 finally, with daylight, he would go to sleep. After all, he said to himself, it's
 probably only insomnia. Many must have it.
 
+~ ~ ~
+
 *This appears in Ernest Hemingway's collection of short stories titled [Winner Take Nothing](https://amzn.to/3L9l1Ge)*
 
 ~ ~ ~
