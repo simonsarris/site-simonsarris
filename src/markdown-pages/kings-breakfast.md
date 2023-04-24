@@ -8,7 +8,6 @@ _By **A. A. Milne**_
 
 
 
-The King's Breakfast\
 The King asked\
 The Queen, and\
 The Queen asked\
@@ -52,7 +51,7 @@ Thickly\
 Spread."
 
 The Queen said\
-"Oh!:\
+"Oh!"\
 And went to\
 His Majesty:\
 "Talking of the butter for\
