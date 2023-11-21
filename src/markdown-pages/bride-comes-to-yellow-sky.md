@@ -1,9 +1,9 @@
 
-—-
-path: "/the-bride-comes-to-yellow-sky"
+---
+path: "/bride-comes-to-yellow-sky"
 title: "The Bride Comes to Yellow Sky"
 description: "The Bride Comes to Yellow Sky (1898)"
-—-
+---
 
 _By **Stephen Crane**_
 
