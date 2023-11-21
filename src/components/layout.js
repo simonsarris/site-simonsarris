@@ -67,7 +67,7 @@ const Layout = ({ children }) => {
 
             <div className="main-menu">
               <Link to="/photo">Photo</Link>
-              <Link to="/writing">Writing</Link>
+              <a href="https://map.simonsarris.com">Writing</a>
               <Link to="/about">About</Link>
             </div>
               <div className="primary-content">

@@ -1,4 +1,3 @@
-
 ---
 path: "/bride-comes-to-yellow-sky"
 title: "The Bride Comes to Yellow Sky"
