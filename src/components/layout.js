@@ -9,16 +9,16 @@ import React from "react"
 import PropTypes from "prop-types"
 import { /*useStaticQuery, graphql,*/ Link } from "gatsby"
 
-import sky from '../images/bg-sky.png';
-import town7 from '../images/bg-town7.png';
-import town6 from '../images/bg-town6.png';
-import town5 from '../images/bg-town5.png';
-import town3 from '../images/bg-town3.png';
-import town4 from '../images/bg-town4.png';
-import town2 from '../images/bg-town2.png';
-import town1 from '../images/bg-town1.png';
-import town0 from '../images/bg-town0.png';
-import foreground from '../images/bg-foreground.png';
+import sky from "../images/bg-sky.png"
+import town7 from "../images/bg-town7.png"
+import town6 from "../images/bg-town6.png"
+import town5 from "../images/bg-town5.png"
+import town3 from "../images/bg-town3.png"
+import town4 from "../images/bg-town4.png"
+import town2 from "../images/bg-town2.png"
+import town1 from "../images/bg-town1.png"
+import town0 from "../images/bg-town0.png"
+import foreground from "../images/bg-foreground.png"
 
 // import Header from "./header"
 import "./layout.css"
@@ -61,32 +61,54 @@ const Layout = ({ children }) => {
           <div className="BIRD BIRD3"></div>
           <div className="BIRD BIRD4"></div>
           <div className="text">
-            <h1 style={{
-              animation: "text-fadein 8s ease-in 0s 1"
-            }} ><Link to="/">Simon Sarris</Link></h1>
+            <h1
+              style={{
+                animation: "text-fadein 8s ease-in 0s 1",
+              }}
+            >
+              <Link to="/">Simon Sarris</Link>
+            </h1>
 
             <div className="main-menu">
               <Link to="/photo">Photo</Link>
               <a href="https://map.simonsarris.com">Writing</a>
               <Link to="/about">About</Link>
             </div>
-              <div className="primary-content">
-                <div className="content-inner">
-                  <main>{children}</main>
-                  <p style={{ fontSize: "90%", marginTop: "2em" }}>
-                  <a href="https://twitter.com/simonsarris"><span style={{ fontSize: "110%" }} role="img" aria-label="candle">🕯️</span><em>simonsarris</em></a>
-                  </p>
-                  <p style={{ fontSize: "90%", marginTop: "2em" }}>
-                  <a href="https://simonsarris.substack.com/"><span style={{ fontSize: "110%" }} role="img" aria-label="postal horn">📯</span><em>subscribe to my newsletter of anecdotes, tales, and ways to get lost in the forest</em></a>
-                  </p>
-                </div>
+            <div className="primary-content">
+              <div className="content-inner">
+                <main>{children}</main>
+                <p style={{ fontSize: "90%", marginTop: "2em" }}>
+                  <a href="https://twitter.com/simonsarris">
+                    <span
+                      style={{ fontSize: "110%" }}
+                      role="img"
+                      aria-label="candle"
+                    >
+                      🕯️
+                    </span>
+                    <em>simonsarris</em>
+                  </a>
+                </p>
+                <p style={{ fontSize: "90%", marginTop: "2em" }}>
+                  <a href="https://map.simonsarris.com/">
+                    <span
+                      style={{ fontSize: "110%" }}
+                      role="img"
+                      aria-label="postal horn"
+                    >
+                      📯
+                    </span>
+                    <em>
+                      subscribe to my newsletter of anecdotes, tales, and ways
+                      to get lost in the forest
+                    </em>
+                  </a>
+                </p>
               </div>
-
-
+            </div>
           </div>
         </div>
       </div>
-
     </>
   )
 }
