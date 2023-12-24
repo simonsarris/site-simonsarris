@@ -6,7 +6,7 @@ date: "1.18.2021 & 11.27.2021"
 
 ## _This has been updated with pass/fail_
 
-Some context: Me and my wife bought some former haying fields overrun with pines and [built a house](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41) there. We have been doing all the landscaping ourselves, which will take years, and now we are starting to build out a small farm.
+Some context: Me and my wife bought some former haying fields overrun with pines and [built a house](https://map.simonsarris.com/p/designing-a-new-old-home-beginnings) there. We have been doing all the landscaping ourselves, which will take years, and now we are starting to build out a small farm.
 
 Goals are numbered only in the order I thought of them. I will try to update this page as I succeed or fail. You can see the pass/fail of last year's goals here: [Goals for 2020](/goals2020).
 

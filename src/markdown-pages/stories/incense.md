@@ -3,7 +3,7 @@ path: "/stories/incense"
 title: "Incense"
 ---
 
-*From my newsletter post, [Dear Friends](https://simonsarris.substack.com/p/dear-friends) on June 10, 2020.*
+_From my newsletter post, [Dear Friends](https://map.simonsarris.com/p/dear-friends) on June 10, 2020._
 
 There is a tale,
 
@@ -19,4 +19,4 @@ The monk, who could scarcely see his visitor, pushed the incense toward him. Aft
 
 Upon hearing the thanks the old monk at last recollected the voice of his former disciple. The monk wept with emotion that he might have spoken with him one last time.
 
-*[See all stories](/stories/)*
+_[See all stories](/stories/)_

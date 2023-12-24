@@ -3,7 +3,7 @@ path: "/stories/young-servant"
 title: "The Young Servant"
 ---
 
-*From my newseltter post, [The Young Servant](https://simonsarris.substack.com/p/the-young-servant) on June 23, 2020.*
+_From my newseltter post, [The Young Servant](https://map.simonsarris.com/p/the-young-servant) on June 23, 2020._
 
 Long ago there lived a king who was famed for his grasp of wisdom and gossip, seeming to know all manner of secret things and far-away news before anyone else in the kingdom. He also had a strange habit: After lunch, when guests were gone and plates were cleared, his most trusted servant would bring him a final dish. The dish was always covered, so even the servant did not know what the King would eat.
 
@@ -43,4 +43,4 @@ One day the servant laid to rest under a tree, when suddenly a golden apple fell
 
 The servant, full of joy, took the golden apple to the King’s daughter. The princess was intrigued, and so they split the apple in two and ate it together, which made their hearts surge with love and tenderness for each other. The King announced a wedding the very next day. All the people rejoiced at the celebration, and they lived in happiness until a great age.
 
-*[See all stories](/stories/)*
+_[See all stories](/stories/)_
