@@ -12,7 +12,7 @@ Goals are numbered only in the order I thought of them. I will try to update thi
 
 I hope to keep the goals for 2021 more focused. These are roughly in order of ability to accomplish within the year:
 
-### 1. Build a much larger bird house and acquire an army of geese.
+### 1. Build a much larger bird house and acquire a herd of geese.
 
 ❌ _Still very much pending! It should be built in 2022, and Geese will be here next year, ready or not._
 
@@ -20,7 +20,7 @@ I hope to keep the goals for 2021 more focused. These are roughly in order of ab
 
 ### 2. Build a second 'pond' area by damming the second stream better, make waterfall and stream more beautiful.
 
-✔️ _This area is dammed well, and mostly cleaned up, but there's lots more beautification to do._
+✔️ _This area is dammed well, and mostly cleaned up, but there's lots more beautification to do. More done in 2022 and 2023_
 
 ### 3. Build beautiful field of flowers out front (already [started](https://twitter.com/simonsarris/status/1330632603989389319) this).
 
@@ -32,16 +32,20 @@ I hope to keep the goals for 2021 more focused. These are roughly in order of ab
 
 ### 5. Continue to clear the fields and acquire sheep, if possible! Build sheep shelter.
 
-❌/✔️ _Lots of clearing has been done, but sheep are probably a few(?) years away still._
+❌❌❌/✔️ _Lots of clearing has been done, but sheep are probably several(?) years away still._
 
 ### 6. Finish [simeville](https://simonsarris.github.io/simeville/) and make it the website background for simonsarris.com.
 
 ❌ _Barely any progress! Although I hope to do some work in december. Most of my free time has been work-work or else outside._
 
+❌❌ _2022-onwards: still no progress!_
+
 ### 7. Finish book of fables and tales (started in 2020 via newsletter).
 
 ❌ _While I have more tales written, I think I need many more before this can be published._
 
+❌❌ _2022-onwards: too few tales!_
+
 ### 8. Build dry stone arch bridge.
 
-❌ _Alas, nothing. Much stonework was completed near the house, though. (But, somehow, "finish the stone wall, terrace, and ornamental garden beds" didn't make it into my goals list.)_
+❌ _Alas, nothing. Much stonework was completed near the house, though. But, somehow, "finish the stone wall, terrace, and ornamental garden beds" didn't make it into my goals list, and maybe that should have been the real goal. I should be working from the house-outwards, with all my effort, until I'm satisfied with what's closest to the house first._
