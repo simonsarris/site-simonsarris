@@ -48,7 +48,7 @@ Goals are numbered only in the order I thought of them. I will try to update thi
 
 6. Build wood storage outside
 
-✔️ _A simple semi-timber framed storage was built, plus a holz-hausen_
+❌ / ✔️ _A simple semi-timber framed storage was built, plus a holz-hausen_
 
 7. Turn the entire front lawn into a crazy field of poppies, probably a mix of shirley, california, and icelandic. The california poppies experiment grew really well this year but we'll see how they do year over year.
 
@@ -121,7 +121,9 @@ _May update: [30 weeks](https://twitter.com/simonsarris/status/12576282322051112
 
 19. Learn the basics of timber framing. Maybe use 5. and 6. as practice for this.
 
-✔️? _Did some very rudimentary stuff with the chook house. August: Practicing some techniques for the wood storage, too._
+❌? _Did some very rudimentary stuff with the chook house. August: Practicing some techniques for the wood storage, too._
+
+... ✔️ _In 2022, two years late, I completed a timber framed barn, the [Goose Palace](https://map.simonsarris.com/p/building-the-goose-palace)_
 
 20. Furnish another bedroom in the house. We just got our guest bedroom a bed and mattress (don't all visit at once guys) but it needs everything else.
 
